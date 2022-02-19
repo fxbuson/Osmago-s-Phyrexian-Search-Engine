@@ -20,4 +20,6 @@ I personally transliterated all known Phyrexian texts because I had already foun
 
 The wonderful [Progress Engine font by u/GuruJ_](https://www.reddit.com/r/magicTCG/comments/nqwqhn/first_release_of_progress_engine_font/) is included in the files, but I made my own (which I called the Phyrexian Compleat font) because some characters were missing and I wanted something that would be more legible from afar. Progress Engine is still prettier and you can use it by 'Ctrl+F'ing for "font_choice" in the python script and replacing 'Phyrexian Compleat' for 'Progress Engine' (will not work with the executable).
 
+I plan on adding a way to change the window theme (colors), but for now please search the script for "sg.theme" and change 'DarkAmber' for [any of PySimpleGUI's themes](https://media.geeksforgeeks.org/wp-content/uploads/20200511200254/f19.jpg).
+
 Translating Phyrexian is a community effort and everyone that tries to discover more is stepping on the shoulders of giants. Please check out all the wonderful people at [r/PhyrexianLanguage](https://www.reddit.com/r/PhyrexianLanguage/), HiglyEntropicMind's youtube series [Deciphering Phyrexian](https://www.youtube.com/watch?v=NsINwVt7fgY&list=PLunDPaoIqC7swE6n_jWJjjQYIkLm29McE) and it's [Discord server](https://discord.gg/6nu8PTEAVc).
