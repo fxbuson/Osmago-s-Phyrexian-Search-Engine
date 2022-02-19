@@ -8,7 +8,9 @@ To initiate, download the whole folder and run "phyrexian_search_engine.py"(made
 
 ## Usage
 To search for words in Phyrexian, either click on the buttons to form your query or add to it by inputting text in transliterated Phyrexian. Attention, the program will handle things badly in case you try to use characters other than the ones in Phyrexian transliteration (I'm using the Phyrexian Transliteration Chart v2.1 by u/Aldurethar, but without differentiating between X and Z. It's all Z).
+
 You can choose to include vowels and diacritics in your search or not. For example, in english the words 'cap', 'cop' and 'cup' would be the same if you didn't include the vowels. This is especially important because Phyrexian is believed to be a consonantal root language (thank you u/Frigorifico for you wonderful youtube series at the HighlyEntropicMind channel), so the same word can be conjugated by changing its vowels. Not including diacritics will give you many false matches, but this feature is here to make up for poor clarity in some sources that makes some diacritics very dubious.
+
 Once you have a result, you will see a popup window with two sections: a first showing any known word (at least the ones I'm quite certain of) that matches to your query, then a list of every instance from every official and accurate source of Phyrexian taht matches to your query. This means that known words will have duplicates in the second section.
 
 ## Disclaimers
