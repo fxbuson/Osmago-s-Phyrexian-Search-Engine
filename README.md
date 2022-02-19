@@ -4,7 +4,11 @@
 I did this little program to make it easier for myself (and now others) to search things among the known words/sources of Phyrexian.
 
 ## Installations
-To initiate, download the whole folder and run "phyrexian_search_engine.py"(made on **Python 3.7**, requires **pyglet** and **PySimpleGUI** packages, I will build a simple executable later).
+To initiate, there are two options:
+
+To run the program without python, just go to the 'executable' folder and run 'phyrexian_search_engine.exe'. This doesn't require anything outside of the executable folder.
+
+To run it with python, run "phyrexian_search_engine.py"(made on **Python 3.7**, requires **pyglet** and **PySimpleGUI** packages). This method doesn't need the executable folder if you don't want the big folder.
 
 ## Usage
 To search for words in Phyrexian, either click on the buttons to form your query or add to it by inputting text in transliterated Phyrexian. Attention, the program will handle things badly in case you try to use characters other than the ones in Phyrexian transliteration (I'm using the [Phyrexian Transliteration Chart v2.1 by u/Aldurethar](https://www.reddit.com/r/magicTCG/comments/nre288/an_update_for_the_new_phyrexian_transcription/), but without differentiating between X and Z. It's all Z here).
