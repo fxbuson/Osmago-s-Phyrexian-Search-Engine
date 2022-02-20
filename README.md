@@ -3,6 +3,8 @@
 
 I did this little program to make it easier for myself (and now others) to search things among the known words/sources of Phyrexian.
 
+In case you want to search for english words and get how to write them in phyrexian, just check out the 'phrx_words.tsv' file and u/Frigorifico's [Phyrexian Dictionary](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnRCY3BzenJidG13ODBfMXBBUHdrMFo1OW5TUXxBQ3Jtc0traXM4eVY3X0ZhT0NhbmMwTU51V2NzbXF6VVVBdzg0clU3OTJhSDBJb1dSSU1qYjZqelVHYkt3cmF0NDhud1A2b2pmWjJRbmkxeURXMGR1dzJHTktvX2FwLUtlb0NhR19QQmcxWWNELTc2UnZ2M0RIdw&q=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1kXaIX-GNYtO6dFScdkkoMgnCyzVGrTh2%3Fusp%3Dsharing). We still don't know enough words to translate many of the sentences asked in Reddit, but if you get creative you can say quite a lot.
+
 ## Installations
 To initiate, there are two options:
 
