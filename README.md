@@ -5,17 +5,19 @@ I did this little program to make it easier for myself (and now others) to searc
 
 In case you want to search for english words and get how to write them in phyrexian, just check out the 'phrx_words.tsv' file and u/Frigorifico's [Phyrexian Dictionary](https://drive.google.com/drive/folders/1kXaIX-GNYtO6dFScdkkoMgnCyzVGrTh2). We still don't know enough words to translate many of the sentences asked in Reddit, but if you get creative you can say quite a lot.
 
-## Installations
+## What files to use
 To initiate, there are two options:
 
 To run the program without python, just go to the 'executable' folder and run 'phyrexian_search_engine.exe'. This doesn't require anything outside of the executable folder.
 
 To run it with python, run "phyrexian_search_engine.py"(made on **Python 3.7**, requires **pyglet** and **PySimpleGUI** packages). This method doesn't need the executable folder if you don't want the big folder.
 
+The 'phrx_words.tsv' and 'phrx_raw.tsv' contain the transliterations for all searcheable words and source texts.
+
 ## Usage
 To search for words in Phyrexian, either click on the buttons to form your query or add to it by inputting text in transliterated Phyrexian. Attention, the program will handle things badly in case you try to use characters other than the ones in Phyrexian transliteration (I'm using the [Phyrexian Transliteration Chart v2.1 by u/Aldurethar](https://www.reddit.com/r/magicTCG/comments/nre288/an_update_for_the_new_phyrexian_transcription/), but without differentiating between X and Z. It's all Z here).
 
-You can choose to include vowels and diacritics in your search or not. For example, in english the words 'cap', 'cop' and 'cup' would be the same if you didn't include the vowels. This is especially important because Phyrexian is believed to be a consonantal root language, so the same word can be conjugated by changing its vowels. Not including diacritics will give you many false matches, but this feature is here to make up for poor clarity in some sources that makes some diacritics very dubious.
+You can choose to include vowels and diacritics in your search or not. For example, the english words 'cap', 'cop' and 'cup' would be the same if you didn't include the vowels. This is especially important because Phyrexian is believed to be a consonantal root language, so the same word can be conjugated by changing its vowels. Not including diacritics will give you many false matches, but this feature is here to make up for poor clarity in some sources that makes some diacritics very dubious.
 
 Once you have a result, you will see a popup window with two sections: a first showing any known word (at least the ones I'm quite certain of) that matches to your query, then a list of every instance from every official and accurate source of Phyrexian taht matches to your query. This means that known words will have duplicates in the second section.
 
