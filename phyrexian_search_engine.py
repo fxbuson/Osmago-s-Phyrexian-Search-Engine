@@ -27,15 +27,17 @@ arrows = ["Ar", "Ax", "V", "Vd", "Ve", "Dd", "Cd", "Cr"]
 middle_s = ["T", "Td", "Te", "Tq", "_d", "Md", "Mx", "Mw", "Mv"]
 vow = ["O", "F", "G", "E", "K", "L", "Q", "H", "J"]
 weird = ["-N", "-Nx", "+Nx", "-Z", "-Zx", "-Zy", "-Zw", "-Zv", "+Zx", "+Zy", "+Zw", "+Zv"]
-punctuation = ["\\", "|", ":", "\"", " ", "."]
+punctuation = ["\\", "|", ":", '"', " ", "."]
 
 all_symbols = rising+falling+arrows+middle_s+vow+weird+punctuation
 
 # FONTS
 
 fonts = {
-        "Phyrexian Compleat":['PhyrexianCompleat.ttf', 'Phyrexian Compleat', 'phyrexian_compleat.tsv'],
-        "Progress Engine":['ProgressEngine.otf', 'ProgressEngine', 'progress_engine.tsv']
+        "Phyrexian Compleat":['PhyrexianCompleat.ttf', 'Phyrexian Compleat', 'phyrexian_compleat.tsv', 1],
+        "Progress Engine":['ProgressEngine.otf', 'ProgressEngine', 'progress_engine.tsv', 1],
+        "Phyrexian Engraved":['Phyrexian_Engraved.otf', "Phyrexian Engraved", "phyrexian_engraved.tsv", 4],
+        "Horizontal Gibberish":['Phi_horizontal_gbrsh_9.8.ttf', 'Phi_horizontal_gbrsh_9.8', 'horizontal_gibberish.tsv', 1]
         }
 
 # FUNCTIONS (word handlers)
@@ -114,7 +116,6 @@ def phrx_search(query:str, no_vowel:bool, no_diacritic:bool):
                     raw_results[where_raw[tex_i]] = [word]
     return [known_results, raw_results]
 
-
 # PREPARE SEARCH
 
 # known words        
@@ -145,20 +146,30 @@ file.close()
 
 #ADD FONT TO PYGLET
 
-font_choice = 'Phyrexian Compleat'
-pyglet.font.add_file(fonts[font_choice][0])
-font_size = 20
+fonts_all = ["Horizontal Gibberish",
+             "Phyrexian Compleat",
+             "Phyrexian Engraved",
+             "Progress Engine"]
+for font in fonts_all:
+    pyglet.font.add_file(fonts[font][0])
+    
+font_size = 25
 
+
+font_choice = fonts_all[0]
 font_phyr = (fonts[font_choice][1], font_size)
 
 # GET THE TRANSLITERATION TO FONT CONVERSION
 
-conv_file = open(fonts[font_choice][2], "r", encoding='utf-8')
 font_conv = {}
-for line in conv_file.readlines():
-    line = line.rstrip("\n").split("\t")
-    font_conv[line[0]] = line[1]
-conv_file.close()
+def new_conv_table():
+    conv_file = open(fonts[font_choice][2], "r", encoding='utf-8')
+    for line in conv_file.readlines():
+        line = line.rstrip("\n").split("\t")
+        font_conv[line[0]] = line[1]
+    conv_file.close()
+
+new_conv_table()
 
 #STYLE WINDOW
 
@@ -170,13 +181,14 @@ layout = [
         [sg.T(key="-OUT-", font=font_phyr)],
         [sg.I(readonly=True, disabled_readonly_background_color=sg.theme_background_color(), border_width=0, key="-TRANSLIT-")],
         [sg.T("Transliteration Input"), sg.I(key="-TRANSLIT_IN-"), sg.B("Add")],        
-        [sg.B(translit_to_font([c], font_conv), key=c, size=(1, 1), font=font_phyr) for c in rising],
-           [sg.B(translit_to_font([c], font_conv), key=c, size=(1, 1), font=font_phyr) for c in falling],
-           [sg.B(translit_to_font([c], font_conv), key=c, size=(1, 1), font=font_phyr) for c in arrows],
-           [sg.B(translit_to_font([c], font_conv), key=c, size=(1, 1), font=font_phyr) for c in middle_s],
-           [sg.B(translit_to_font([c], font_conv), key=c, size=(1, 1), font=font_phyr) for c in vow],
-           [sg.B(translit_to_font([c], font_conv), key=c, size=(1, 1), font=font_phyr) for c in weird],
-           [sg.B(translit_to_font([c], font_conv), key=c, size=(1, 1), font=font_phyr) for c in punctuation],
+        [sg.B(translit_to_font([c], font_conv), key=c, size=(fonts[font_choice][3], 1), font=font_phyr) for c in rising],
+           [sg.B(translit_to_font([c], font_conv), key=c, size=(fonts[font_choice][3], 1), font=font_phyr) for c in falling],
+           [sg.B(translit_to_font([c], font_conv), key=c, size=(fonts[font_choice][3], 1), font=font_phyr) for c in arrows],
+           [sg.B(translit_to_font([c], font_conv), key=c, size=(fonts[font_choice][3], 1), font=font_phyr) for c in middle_s],
+           [sg.B(translit_to_font([c], font_conv), key=c, size=(fonts[font_choice][3], 1), font=font_phyr) for c in vow],
+           [sg.B(translit_to_font([c], font_conv), key=c, size=(fonts[font_choice][3], 1), font=font_phyr) for c in weird],
+           [sg.B(translit_to_font([c], font_conv), key=c, size=(fonts[font_choice][3], 1), font=font_phyr) for c in punctuation],
+           [sg.T("Font:"), sg.InputCombo(fonts_all, default_value=font_choice, readonly=True, key="-FONT-"), sg.B("Change")],
            [sg.B("Search"), sg.B("Delete"), sg.B("Clear"), sg.T(key="-MSG-")],
            [sg.Checkbox("Include Vowels", k="-INC_VOW-"), sg.Checkbox("Include Diacritics", default = True, k="-INC_DIAC-")]]
 
@@ -194,12 +206,13 @@ while True:
     if event == 'Clear':
         word = ''
         translit_word = ''
-    elif event == 'Delete' and word != '':
+    elif event == 'Delete' and word != '': # update this to work based on the transliteration instead of the font
         if word[-1] == ' ':
             translit_word = translit_word[:-1]
+            word = word[:-1]
         else:
-            translit_word = translit_word[:-len(font_to_translit(word[-1], font_conv))]
-        word = word[:-1]
+            translit_word = translit_word[:-len(parse_translit(translit_word)[-1])]
+            word = translit_to_font(parse_translit(translit_word), font_conv)
     elif event in all_symbols:
         translit_word = translit_word + event
         word = word + translit_to_font([event], font_conv)
@@ -209,6 +222,18 @@ while True:
             if symb in all_symbols:
                 translit_word = translit_word + symb
                 word = word + translit_to_font([symb], font_conv)
+    elif event == "Change":
+        font_choice = values["-FONT-"]
+        font_phyr = (fonts[font_choice][1], font_size)
+        font_conv = {}
+        new_conv_table()
+        word = translit_to_font(parse_translit(translit_word), font_conv)
+        window["-OUT-"].update(word, font=font_phyr)
+        for symb in all_symbols:
+            window[symb].update(translit_to_font([symb], font_conv))
+            window[symb].Widget.config(font=font_phyr)
+            window[symb].set_size(size=(fonts[font_choice][3], 1))
+            
     elif event == "Search":
         good_to_go = True
         word_to_search = translit_word.rstrip(".").lstrip("\\")
@@ -220,7 +245,6 @@ while True:
         if (not values["-INC_VOW-"]) and remove_elements(word_to_search, vowels) == '':
             window["-MSG-"].update("No result")
             good_to_go = False
-                
         if good_to_go:
             search_results = phrx_search(word_to_search, not values["-INC_VOW-"], not values["-INC_DIAC-"])
             if search_results == [[], {}] or translit_word == '':
@@ -243,6 +267,7 @@ while True:
                         results_layout.append([sg.T(conversion, font=font_phyr)])
                     
                 sg.Window('Search Results', layout=[[sg.Col(layout=results_layout, scrollable=True, size=(500, 500))]]).read(close=True)
+    
     window["-OUT-"].update(word)
     window["-TRANSLIT-"].update(translit_word)
     
