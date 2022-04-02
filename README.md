@@ -5,6 +5,8 @@ I did this little program to make it easier for myself (and now others) to searc
 
 In case you want to search for english words and get how to write them in phyrexian, just check out the 'phrx_words.tsv' file and u/Frigorifico's [Phyrexian Dictionary](https://drive.google.com/drive/folders/1kXaIX-GNYtO6dFScdkkoMgnCyzVGrTh2). We still don't know enough words to translate many of the sentences asked in Reddit, but if you get creative you can say quite a lot.
 
+Only tested in Windows 10, please let me know if you have problems running it.
+
 ## What files to use
 To initiate, there are two options:
 
