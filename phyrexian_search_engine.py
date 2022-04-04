@@ -156,7 +156,7 @@ for font in fonts_all:
 font_size = 25
 
 
-font_choice = fonts_all[0]
+font_choice = fonts_all[1]
 font_phyr = (fonts[font_choice][1], font_size)
 
 # GET THE TRANSLITERATION TO FONT CONVERSION
