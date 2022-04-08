@@ -92,7 +92,7 @@ def compare_words(w1: str, w2: str, no_vow: bool = False, no_diac: bool = False)
     else:
         return False
 
-# SEARCH FUNCTION   
+# SEARCH FUNCTIONS   
         
 def phrx_search(query:str, no_vowel:bool, no_diacritic:bool):
     known_results = []
@@ -115,6 +115,15 @@ def phrx_search(query:str, no_vowel:bool, no_diacritic:bool):
                 else:
                     raw_results[where_raw[tex_i]] = [word]
     return [known_results, raw_results]
+
+def eng_search(query:str):
+    results = []
+    for word_i in range(len(eng)):
+        lowerc = eng[word_i].lower()
+        if query == lowerc:
+            results.append([where[word_i], transl[word_i]])
+    return results
+    
 
 # PREPARE SEARCH
 
@@ -189,6 +198,7 @@ layout = [
            [sg.B(translit_to_font([c], font_conv), key=c, size=(fonts[font_choice][3], 1), font=font_phyr) for c in weird],
            [sg.B(translit_to_font([c], font_conv), key=c, size=(fonts[font_choice][3], 1), font=font_phyr) for c in punctuation],
            [sg.T("Font:"), sg.InputCombo(fonts_all, default_value=font_choice, readonly=True, key="-FONT-"), sg.B("Change")],
+           [sg.I(key="-ENG-"), sg.B("Search English")],
            [sg.B("Search"), sg.B("Delete"), sg.B("Clear"), sg.T(key="-MSG-")],
            [sg.Checkbox("Include Vowels", k="-INC_VOW-"), sg.Checkbox("Include Diacritics", default = True, k="-INC_DIAC-")]]
 
@@ -232,8 +242,22 @@ while True:
         for symb in all_symbols:
             window[symb].update(translit_to_font([symb], font_conv))
             window[symb].Widget.config(font=font_phyr)
-            window[symb].set_size(size=(fonts[font_choice][3], 1))
-            
+            window[symb].set_size(size=(fonts[font_choice][3], 1))  
+    elif event == "Search English":
+        word_to_search = values["-ENG-"]
+        search_results = eng_search(word_to_search)
+        if search_results == []:
+            window["-MSG-"].update("No result")
+        else:
+            window["-MSG-"].update('')
+            results_layout=[]
+            results_layout.append([sg.T('Results for query: '+word_to_search, font='Any 12 bold underline')])
+            for result in search_results:
+                results_layout.append([sg.T("In: "+result[0], font='Any 10 bold underline')])
+                results_layout.append([sg.I(result[1], readonly=True, disabled_readonly_background_color=sg.theme_background_color(), border_width=0)])
+                conversion = translit_to_font(parse_translit(result[1]), font_conv)
+                results_layout.append([sg.T(conversion, font=font_phyr)])
+            sg.Window('Search Results', layout=[[sg.Col(layout=results_layout, scrollable=True, size=(500, 500))]]).read(close=True) 
     elif event == "Search":
         good_to_go = True
         word_to_search = translit_word.rstrip(".").lstrip("\\")
@@ -266,7 +290,7 @@ while True:
                         conversion = translit_to_font(parse_translit(result), font_conv)
                         results_layout.append([sg.T(conversion, font=font_phyr)])
                     
-                sg.Window('Search Results', layout=[[sg.Col(layout=results_layout, scrollable=True, size=(500, 500))]]).read(close=True)
+                sg.Window('Search Results', layout=[[sg.Col(layout=results_layout, scrollable=True, size=(500, 500))]]).read(close=True) 
     
     window["-OUT-"].update(word)
     window["-TRANSLIT-"].update(translit_word)
