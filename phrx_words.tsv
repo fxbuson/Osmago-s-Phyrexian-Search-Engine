@@ -4,13 +4,16 @@ Artifact	JGPT, TCS	ZyNwQTdL-ZZw
 Artifact	TCS	NqLVdZeONwMvHZvMxFZwZxZyNwQTdL-ZZwNvL-ZFZvENx
 Battlefield	UtH	OMxZyZxVK-ZwNwNxONwZx
 Battlefield	SWO	OMxZyZxVK-ZwNwNxONwQZx
-Begin	SWO, JGCA	-ZFFNwZxNvQ-ZZy
+Begin	SWO, JGCA, UHP	-ZFFNwZxNvQ-ZZy
 Begin	PS, AWBO	-ZFFNwZxNvQ-ZEZy
 Burns	NP	OMxZyTTqGDdGNw
 Card	SWO	+ZvE-ZNwZqVFTdMx
 Card	JGCA	ZqVFFTdMx
 Card	YT	ZqVGGTdQMx
 Card	TCS	ZqVFTdMx
+Card	UHP	-ZFFZxAxZqVFTdGMx
+Card	UHP	ZqOZqVFTdMx
+Card	UHP	ZqTdLZeCrZqVFTdGMx
 Cast	JGPT	ZQ-ZwQNd
 Cast	JGPT	ZQZwENd
 Cast	TCS	ZQZwNdDdNyLTdVd
@@ -27,14 +30,16 @@ Counter	VMR	VdQQNyVe+Zw
 Counter	JGPT	MxQZyKTd
 Create	JGCA	TdL+ZwGT
 Create	TCS	TdL+ZwKT
-Creature	ENGC, UtH, SWO, JGCA, VVH, VMR, JGPT	NqLVdZe+ZvE-ZNw
+Creature	ENGC, UtH, SWO, JGCA, VVH, VMR, JGPT, UHP	NqLVdZe+ZvE-ZNw
 Creature	ENGC, UtH	-ZvEE-ZNw
 Creature	UtH, TCS	+ZvE-ZNw
 Creature	SWO	+ZvE-ZNwZqVFTdMx
 Creature	AWBO	-N-ZvEE-ZNw
 Death	AWBO	NxQZyNw
 Destroy	NP	TdL+ZwTONw+Zv_dZqFZyHMx
-Draw	JGCA, TCS	TZvDdJMvQV
+Draw	JGCA	TZvDdJMvQV
+Draw	TCS	TZvDdLMvQV
+Draw	UHP	TZvDdLMvEV
 Edition	SLF	ZqVFTdMxZvHDdZe
 Edition	SL	VTdMxZvDdZe
 Evolution	PS	MvOZw+NxZqFMvMv
@@ -42,6 +47,8 @@ Evolution	PS	MxNyL-ZNxZqFMvMv
 Exile	TCS	AxNwOZx-Z
 Exile	YT	Zd_dAxNwOZx-ZNxONwZx
 Exile	YT	-NAxNwOZx-ZNxONwZxNdO
+Exile	UHP	AxNwO-ZxQ-Z
+Exile	UHP	AxNwOZxE-Z
 Face	YT, AWBO	TdLZx_dAx
 Father	PS, NP, YT	TH-ZGNx
 Fear	AWBO	NwVFNwGAx
@@ -60,16 +67,20 @@ Great	PS	MxNyL-ZNxZqFMvMv
 Great	AWBO	MxNyL-ZNxTdL+ZwT
 Great	NP	MxNyL-ZNxTd+ZwGT
 Haste	UtH, VMR	NeVFMdFZw_dNQVZw
+Haste	UHP	NeVFMdFZw_dNQV-ZZw
+Heretic	UHP	TqZw-ZGZwZe
 Hidden	UtH	ONw-ZxE+ZwFZDdMv
 Hunger	VVH	ZeLZeZe
 Immortality	AWBO	NeVFONw-ZxENxQZyNw
 Land	VVH	NxOZqNd
 Land	VVH	ZqOAxNxOZqNd
 Land	S	NeK-ZvF-ZZxNxOZqNd
-Legendary	ENGC, UtH, SWO, JGCA, VVH, VMR, JGPT	NqLVdZe+ZvE-ZNw
+Legendary	ENGC, UtH, SWO, JGCA, VVH, VMR, JGPT, UHP	NqLVdZe+ZvE-ZNw
 Legendary	TCS	NqLVdZeTdT-NQZvTETdZx
 Legendary	TCS	NqLVdZeONwMvHZvMxFZwZxZyNwQTdL-ZZwNvL-ZFZvENx
 Library	YT	ZxEZwZxNxONwZx
+Library	UHP	ZxEZwZxNxONwQZx
+Library	UHP	ZxEZwZxNxONwEZx
 Machine	PS	VdJJ-ZZe
 Machine	NP	VdJ-ZZe-ZO-ZVZeVOVV
 Make	AWBO	-ZOZvGDdNwTdL+ZwGT
@@ -81,9 +92,11 @@ Mind	NP	ZxOCrFDdZx
 New	NP	MxHZvDdZvZx+ZvGDdNwZwENxOZeNd
 New	NP	MxHZvDdLZvZx-ZTqTdENwGNw
 New	JGPT	MxHZvDdLZvZxMwGNwZx
+Next	VVH, TCS	ZqTdLZeCrONwNeGZvTZyZvETdGAxZvNwE
+Next	UHP	ZqTdLZeCrZqVFTdGMx
 Notebook	TCS	ZxLT-ZVdHH-ZDdQZwNwZxEZwZx
 Offer	AWBO	-ZQZe-ZONyV
-Opponent	ENGC, UtH, SWO, JGCA, VVH, VMR, JGPT	ONwTdJZyAx
+Opponent	ENGC, UtH, SWO, JGCA, VVH, VMR, JGPT, UHP	ONwTdJZyAx
 Other	ENGC	MvL_d_d
 Other	ENGC	MvL_d_dZwENxOOZeNd
 Perfect	JGCA	VdTdL+ZwT+ZvGDdNwZwENxOZeNd
@@ -96,9 +109,10 @@ Phyrexia	ENGC, PS	+ZvGDdNwZwENxOZeNd
 Phyrexia	JGCA	VdTdL+ZwT+ZvGDdNwZwENxOZeNd
 Phyrexia	AWBO	MxHZvDdLZv+ZvGDdNwZwENxGZeNd
 Phyrexia	NP	MxHZvDdZvZx+ZvGDdNwZwENxOZeNd
-Play	YT	ZQ-ZwQNd
+Play	YT, UHP	ZQ-ZwQNd
+Play	UHP	ZQZwENd
 Player	VMR	OMxZyTdJZyAx
-Praetor	ENGC, UtH, JGCA, SWO, VVH, VMR, JGPT	ZvNwLVdZxDd
+Praetor	ENGC, UtH, JGCA, SWO, VVH, VMR, JGPT, UHP	ZvNwLVdZxDd
 Process	JGCA	ZyZvETdAxHZdDdT
 Progress	JGPT	-ZwGZx-ZvZx
 Put	VMR	+NxO-ZQ-Z
@@ -115,8 +129,8 @@ Skin	PA	ONwZxNwMx
 Skin	AWBO	ZGZxZvZxNwGMx
 Sorcery	YT, JGPT	ZwLMxZv_dNqQTMv
 Spell	TCS	NqQQTQMv
-Step	SWO	Zd_dLZMdZyZvETdGAx
-Step	SWO	Zd_dLZMdZyZvKTdQAx
+Step	SWO, UHP	Zd_dLZMdZyZvETdGAx
+Step	SWO, UHP	Zd_dLZMdZyZvKTdQAx
 Step	VVH, TCS	ZqTdLZeCrONwNeGZvTZyZvETdGAxZvNwE
 Step	JGCA	-Zv_dTdL+ZwTZyZvKTdQAx
 Swamp	S	ZyLMxZwT
@@ -132,8 +146,9 @@ Token	TCS	NvL-ZFZvNxZx_dQNwZxTdL+ZwT
 Trample	VVH, VMR	NeVFZwNvJ-ZyZvLTd-ZZe
 Trigger	JGPT	ZdMwOCdZqZx
 Turn	JGPT	NwEDdHTdNe-ZFF-ZO
-Turn	YT	MwZwFZqODdHTdNe
+Turn	YT, UHP	MwZwFZqODdHTdNe
 Turn	YT	MwZwFZqODdHTdNw
+Turn	UHP	ZqODdHTdENe
 Untap	VVH, TCS	NqFONwNeGZvET
 Untap	VVH, TCS	ZqTdLZeCrONwNeGZvTZyZvETdGAxZvNwE
 Vigilance	ENGC	NeVFZvTdDdQZwT
