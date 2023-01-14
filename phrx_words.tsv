@@ -1,163 +1,217 @@
 Ability	JGPT	ZqOAxNeOVNx
 Add	VVH	ZLZQZe
-Artifact	JGPT, TCS	ZyNwQTdL-ZZw
+Apocalypse	StA	TdF-ZxLTZe
 Artifact	TCS	NqLVdZeONwMvHZvMxFZwZxZyNwQTdL-ZZwNvL-ZFZvENx
-Battlefield	UtH	OMxZyZxVK-ZwNwNxONwZx
+Artifact	JGPT, TCS	ZyNwQTdL-ZZw
+Artifact	PC	ZyNwQTdL-ZZw+ZvE-ZNw
+Basic	Swamp	NeK-ZvF-ZZxNxOZqNd
 Battlefield	SWO	OMxZyZxVK-ZwNwNxONwQZx
-Begin	SWO, JGCA, UHP	-ZFFNwZxNvQ-ZZy
+Battlefield	UtH	OMxZyZxVK-ZwNwNxONwZx
 Begin	PS, AWBO	-ZFFNwZxNvQ-ZEZy
-Burns	NP	OMxZyTTqGDdGNw
+Begin	SWO, JGCA, UHP	-ZFFNwZxNvQ-ZZy
+Behold	BGMTG	NyZxETdL
+Bottom	ASA	-ZwEArG_dZyFZxMvHZdDdT
+Burn	NP	OMxZyTTqGDdGNw
 Card	SWO	+ZvE-ZNwZqVFTdMx
-Card	JGCA	ZqVFFTdMx
-Card	YT	ZqVGGTdQMx
-Card	TCS	ZqVFTdMx
-Card	UHP	-ZFFZxAxZqVFTdGMx
-Card	UHP	ZqOZqVFTdMx
+Card	UHP, ASA	-ZFFZxAxZqVFTdGMx
+Card	UHP, ASA	ZqOZqVFTdMx
 Card	UHP	ZqTdLZeCrZqVFTdGMx
-Cast	JGPT	ZQ-ZwQNd
+Card	JGCA	ZqVFFTdMx
+Card	TCS, StA, PC	ZqVFTdMx
+Card	YT	ZqVGGTdQMx
+Card	PC	VZqVFFTdMx
 Cast	JGPT	ZQZwENd
 Cast	TCS	ZQZwNdDdNyLTdVd
+Cast	JGPT, ASA	ZQ-ZwQNd
+Cenobite	ENGC	MxNyL-ZNxArKTdHZZx
 Choose	JGPT	NqMxNxL-ZwQTq
-Compleat	TCS, SL, SLF, PSL	Zv_dFTdENwMv
+Compleat	TCS, SL, SLF, PSL, ASA	Zv_dFTdENwMv
 Complete	NP	+Zv_dTdL+ZwET
-Control	ENGC, UtH	ZyNwQ-ZvQ_d
-Control	ENGC, UtH	ZyNwQ-ZvE_d
 Control	VVH, TCS	TdL+ZwTZyNwQ-Zv_d
-Copy	JGPT	Zx_dQNwZxTdL-ZwT
+Control	ENGC, UtH	ZyNwQ-ZvE_d
+Control	ENGC, UtH	ZyNwQ-ZvQ_d
 Copy	TCS	NvL-ZFZvNxZx_dQNwZxTdL+ZwT
 Copy	JGPT	ZqOAxZx_dQNwZxTdL+ZwT
-Counter	VMR	VdQQNyVe+Zw
+Copy	JGPT	Zx_dQNwZxTdL-ZwT
+Cost	AWBOArticle	Zd_dFZwNyLTdQVd
+Cost	TCS	ZQZwNdDdNyLTdVd
 Counter	JGPT	MxQZyKTd
+Counter	VMR, ASA	VdQQNyVe+Zw
+Crawler	PC	ZVEZdTd
 Create	JGCA	TdL+ZwGT
 Create	TCS	TdL+ZwKT
-Creature	ENGC, UtH, SWO, JGCA, VVH, VMR, JGPT, UHP	NqLVdZe+ZvE-ZNw
-Creature	ENGC, UtH	-ZvEE-ZNw
-Creature	UtH, TCS	+ZvE-ZNw
+Create	ASA	TdL-ZwQT
+Creature	UtH, TCS, ASA, Dismember	+ZvE-ZNw
 Creature	SWO	+ZvE-ZNwZqVFTdMx
+Creature	ASA	NqF+ZvE-ZNw
+Creature	ENGC, UtH, SWO, JGCA, VVH, VMR, JGPT, UHP	NqLVdZe+ZvE-ZNw
 Creature	AWBO	-N-ZvEE-ZNw
+Creature	ASA	ZqO-ZvEE-ZNw
+Creature	ENGC, UtH, ASA	-ZvEE-ZNw
+Creature	PC	ZyNwQTdL-ZZw+ZvE-ZNw
 Death	AWBO	NxQZyNw
+Deathtouch	StA	NeVFNxQZyNw-ZOZwMx
 Destroy	NP	TdL+ZwTONw+Zv_dZqFZyHMx
+Distribute	ASA	NyCdZwENQZw
 Draw	JGCA	TZvDdJMvQV
-Draw	TCS	TZvDdLMvQV
 Draw	UHP	TZvDdLMvEV
-Edition	SLF	ZqVFTdMxZvHDdZe
+Draw	TCS, StA, PC	TZvDdLMvQV
 Edition	SL	VTdMxZvDdZe
+Edition	SLF	ZqVFTdMxZvHDdZe
+Emblem	ASA	AxZwL_dLZwT
+Embrace	AWBOArticle	Zq+NxDdJMvLZd
+Embrace	BGMTG	Zq+NxDdJMvZd
 Evolution	PS	MvOZw+NxZqFMvMv
 Evolution	PS	MxNyL-ZNxZqFMvMv
-Exile	TCS	AxNwOZx-Z
-Exile	YT	Zd_dAxNwOZx-ZNxONwZx
-Exile	YT	-NAxNwOZx-ZNxONwZxNdO
-Exile	UHP	AxNwO-ZxQ-Z
 Exile	UHP	AxNwOZxE-Z
+Exile	UHP	AxNwO-ZxQ-Z
+Exile	TCS	AxNwOZx-Z
+Exile	YT	-NAxNwOZx-ZNxONwZxNdO
+Exile	YT	Zd_dAxNwOZx-ZNxONwZx
 Face	YT, AWBO	TdLZx_dAx
+Fall	AWBOArticle	+ZwHCr-ZwQT
 Father	PS, NP, YT	TH-ZGNx
 Fear	AWBO	NwVFNwGAx
+February	BGMTG	+ZwQCrLNx-ZwN
 Flash	JGCA	NeVFMdFZw_dNqQTMv
 Flay	AWBO	NeJMdLZq
 Flesh	AWBO	-ZOZvGDdNwTdL+ZwGT
+Flesh	AWBOLive	Zd_d-ZOZvGDdGNw
 Foil	SLF	+Zv-ZZwFZxN
+Forest	FAForest	-ZHZqNxOMvNd
 Get	ENGC, UtH	NqFZxLZvEZy
+Get	ASA	ZxLZvEZy
+Get	ASA, Dismember	ZxLZvGZy
 Goal	JGCA	-Zv_d_dQZvMvNxONwZx
+Graveyard	YT	-NNxQZyNwFVVNxONwZx
 Graveyard	SWO	Zd_dNxQZyNwFVVNxONwQZx
 Graveyard	TCS	Zd_dNxQZyNwFVVNxONwZx
-Graveyard	YT	-NNxQZyNwFVVNxONwZx
-Great	ENGC	MxNyL-ZNxArKTdHZZx
 Great	PS	MxNyL-ZNx
-Great	PS	MxNyL-ZNxZqFMvMv
-Great	AWBO	MxNyL-ZNxTdL+ZwT
+Great	ENGC	MxNyL-ZNxArKTdHZZx
 Great	NP	MxNyL-ZNxTd+ZwGT
+Great	AWBO	MxNyL-ZNxTdL+ZwT
+Great	PS	MxNyL-ZNxZqFMvMv
+Great	AWBOArticle	MxNyL-ZGNx
+Hand	ASA	TdJZyQ_d
+Hand	PC	Zd_dTdJZyQ_d
 Haste	UtH, VMR	NeVFMdFZw_dNQVZw
 Haste	UHP	NeVFMdFZw_dNQV-ZZw
 Heretic	UHP	TqZw-ZGZwZe
 Hidden	UtH	ONw-ZxE+ZwFZDdMv
+Horror	PC	MxNyNqJAxNw
 Hunger	VVH	ZeLZeZe
 Immortality	AWBO	NeVFONw-ZxENxQZyNw
+Island	FAIsland	ZwVeNxOZqNd
+Knee	AWBOArticle	-N-ZvTeHZxQNw
+Land	Swamp	NeK-ZvF-ZZxNxOZqNd
 Land	VVH	NxOZqNd
 Land	VVH	ZqOAxNxOZqNd
-Land	S	NeK-ZvF-ZZxNxOZqNd
-Legendary	ENGC, UtH, SWO, JGCA, VVH, VMR, JGPT, UHP	NqLVdZe+ZvE-ZNw
-Legendary	TCS	NqLVdZeTdT-NQZvTETdZx
+Legendary	ENGC, UtH, SWO, JGCA, VVH, VMR, JGPT, UHP, StA	NqLVdZe+ZvE-ZNw
 Legendary	TCS	NqLVdZeONwMvHZvMxFZwZxZyNwQTdL-ZZwNvL-ZFZvENx
-Library	YT	ZxEZwZxNxONwZx
-Library	UHP	ZxEZwZxNxONwQZx
+Legendary	TCS, ASA	NqLVdZeTdT-NQZvTETdZx
 Library	UHP	ZxEZwZxNxONwEZx
+Library	UHP, ASA	ZxEZwZxNxONwQZx
+Library	ASA	ZxEZwZxNxONw-ZQZx
+Library	YT	ZxEZwZxNxONwZx
 Machine	PS	VdJJ-ZZe
 Machine	NP	VdJ-ZZe-ZO-ZVZeVOVV
+Machine	AWBOArticle	VdJ-ZZeMwJNdNq
 Make	AWBO	-ZOZvGDdNwTdL+ZwGT
-Mana	VVH	TL-ZTdNeG-ZvQT
 Mana	VVH	NqFTL-ZTdNeGZvET
-Mana	VVH	TL-ZTdZvKZwZw
 Mana	NP	TL-ZTd
+Mana	VVH	TL-ZTdNeG-ZvQT
+Mana	VVH	TL-ZTdZvKZwZw
 Mind	NP	ZxOCrFDdZx
-New	NP	MxHZvDdZvZx+ZvGDdNwZwENxOZeNd
-New	NP	MxHZvDdLZvZx-ZTqTdENwGNw
+Mother	AWBOArticle	VdJ-ZZeMwJNdNq
+Mountain	FAMount	ZwZxLZwNw
 New	JGPT	MxHZvDdLZvZxMwGNwZx
+New	NP	MxHZvDdLZvZx-ZTqTdENwGNw
+New	NP	MxHZvDdZvZx+ZvGDdNwZwENxOZeNd
 Next	VVH, TCS	ZqTdLZeCrONwNeGZvTZyZvETdGAxZvNwE
 Next	UHP	ZqTdLZeCrZqVFTdGMx
 Notebook	TCS	ZxLT-ZVdHH-ZDdQZwNwZxEZwZx
 Offer	AWBO	-ZQZe-ZONyV
-Opponent	ENGC, UtH, SWO, JGCA, VVH, VMR, JGPT, UHP	ONwTdJZyAx
+Opponent	ENGC, UtH, SWO, JGCA, VVH, VMR, JGPT, UHP, StA, ASA	ONwTdJZyAx
+Opponent	PC	LNyOV-ZONwTdJZyAx
 Other	ENGC	MvL_d_d
 Other	ENGC	MvL_d_dZwENxOOZeNd
-Perfect	JGCA	VdTdL+ZwT+ZvGDdNwZwENxOZeNd
-Perfect	PS	VdTdL+ZwET
 Perfect	AWBO	VdTdE+ZwHT
+Perfect	PS	VdTdL+ZwET
+Perfect	JGCA	VdTdL+ZwT+ZvGDdNwZwENxOZeNd
+Perfect	BGMTG, Merch, WIJ	VdTdL+ZwT
 Permanent	VMR	OMxZy-ZLMvZxFVVNdO
 Permanent	TCS	-ZLMvZxFVV
 Permanent	TCS	ZqOAx-ZLMvZxFVV
 Phyrexia	ENGC, PS	+ZvGDdNwZwENxOZeNd
-Phyrexia	JGCA	VdTdL+ZwT+ZvGDdNwZwENxOZeNd
 Phyrexia	AWBO	MxHZvDdLZv+ZvGDdNwZwENxGZeNd
 Phyrexia	NP	MxHZvDdZvZx+ZvGDdNwZwENxOZeNd
-Play	YT, UHP	ZQ-ZwQNd
+Phyrexia	JGCA	VdTdL+ZwT+ZvGDdNwZwENxOZeNd
+Phyrexia	BGMTG	MxHZvDdLZvZx+ZvGDdNwZwENxOZqNd
+Phyrexia	AWBOLive	+ZvGDdNwZwENxOZeHNd
+Plains	FAPlains	-ZFAxZy_d
+Planeswalker	TCS, ASA	NqLVdZeTdT-NQZvTETdZx
+Planeswalker	ASA	NqLVdZeTdT-NQZvTETdZxNdO
 Play	UHP	ZQZwENd
+Play	YT, UHP	ZQ-ZwQNd
 Player	VMR	OMxZyTdJZyAx
-Praetor	ENGC, UtH, JGCA, SWO, VVH, VMR, JGPT, UHP	ZvNwLVdZxDd
+Praetor	ENGC, UtH, JGCA, SWO, VVH, VMR, JGPT, UHP, StA	ZvNwLVdZxDd
 Process	JGCA	ZyZvETdAxHZdDdT
 Progress	JGPT	-ZwGZx-ZvZx
+Psychosis	PC	VdF+ZyZeNeVF-ZN
+Put	VMR	+NxO-ZE-Z
 Put	VMR	+NxO-ZQ-Z
 Put	VMR	NqF+NxO-ZE-Z
-Put	VMR	+NxO-ZE-Z
 Reduce	JGCA, TCS	TJNeGZe
 Resistence	UtH	TDdHZdTdZyVeDdCrVF-ZZe
 Reveal	AWBO	ZwDdEZvGZe
+Reveal	ASA	ZwDdEZvQZe
 Sacrifice	SWO	TdH-ZZ-ZQZeGT
 Sage	TCS	NvKNNe
 See	PS	NqFDdQZwET
-Skin	NP	Zv_dZxNwENwGMx
 Skin	PA	ONwZxNwMx
 Skin	AWBO	ZGZxZvZxNwGMx
+Skin	NP	Zv_dZxNwENwGMx
 Sorcery	YT, JGPT	ZwLMxZv_dNqQTMv
+Sow	AWBOLive	NxVFNyLMx
 Spell	TCS	NqQQTQMv
 Step	SWO, UHP	Zd_dLZMdZyZvETdGAx
 Step	SWO, UHP	Zd_dLZMdZyZvKTdQAx
 Step	VVH, TCS	ZqTdLZeCrONwNeGZvTZyZvETdGAxZvNwE
 Step	JGCA	-Zv_dTdL+ZwTZyZvKTdQAx
-Swamp	S	ZyLMxZwT
+Subscribe	BGMTG	Md-ZxKMvLLAr
+Surrender	BGMTG, Merch, WIJ	ZvTdMvAxL-ZQNx
+Swamp	Swamp, FASwamp	ZyLMxZwT
 Swampwalk	SWO	NeVFZyLMxZwTVdTETdZx
-Tap	VVH	TL-ZTdNeG-ZvQT
-Tap	VVH	NqFTL-ZTdNeGZvET
 Tap	TCS	NeGZvT
-Target	SWO, TCS	MwGNwQZx
+Tap	VVH	NqFTL-ZTdNeGZvET
+Tap	VVH	TL-ZTdNeG-ZvQT
+Target	SWO, TCS, ASA, Dismember	MwGNwQZx
 Target	JGPT	MxHZvDdLZvZxMwGNwZx
 Testament	YT	NvEZdNyMvZxMvZyG_dT
+Three	ASA	+ZwF
+Three	ASA	NwEONwZwHDdNwZeDd+ZwF-ZO
 Token	TCS	NqLVdZeONwMvHZvMxFZwZxZyNwQTdL-ZZwNvL-ZFZvENx
 Token	TCS	NvL-ZFZvNxZx_dQNwZxTdL+ZwT
 Trample	VVH, VMR	NeVFZwNvJ-ZyZvLTd-ZZe
 Trigger	JGPT	ZdMwOCdZqZx
-Turn	JGPT	NwEDdHTdNe-ZFF-ZO
-Turn	YT, UHP	MwZwFZqODdHTdNe
+Turn	YT, UHP, ASA, Dismember	MwZwFZqODdHTdNe
 Turn	YT	MwZwFZqODdHTdNw
+Turn	JGPT	NwEDdHTdNe-ZFF-ZO
 Turn	UHP	ZqODdHTdENe
+Two	ASA	+ZwQ
+Tyrant	JGPT	ZeDdVdO-ZxDdZw
 Untap	VVH, TCS	NqFONwNeGZvET
 Untap	VVH, TCS	ZqTdLZeCrONwNeGZvTZyZvETdGAxZvNwE
-Vigilance	ENGC	NeVFZvTdDdQZwT
+Vigilance	ENGC, ASA	NeVFZvTdDdQZwT
 Voice	VVH	NwQZxMxGN
 Voice	AWBO	NwQZxMxLN
+Welcome	AWBOArticle	MxZdENyQZd
+Welcome	BGMTG	MxZdENyLLZd
 Whisper	ENGC	NqF-ZFArE-ZEZx
 Whisper	SWO	TdL+ZwT-ZFArEE-ZZx
 Whisper	NP	-ZFArEE-ZZx
-Work	AWBO	MxNyL-ZNxTdL+ZwT
 Work	NP	MxNyL-ZNxTd+ZwGT
+Work	AWBO	MxNyL-ZNxTdL+ZwT
 World	ENGC	MvL_d_dZwENxOOZeNd
 World	AWBO	ZqOZwENxOZeNd
+World	AWBOLive	ZqOZwENxOZqNd

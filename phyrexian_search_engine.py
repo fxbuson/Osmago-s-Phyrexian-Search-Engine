@@ -26,7 +26,7 @@ falling = ["N", "Nd", "Nq", "Nx", "Ny", "Ne", "Nw", "Nv"]
 arrows = ["Ar", "Ax", "V", "Vd", "Ve", "Dd", "Cd", "Cr"]
 middle_s = ["T", "Td", "Te", "Tq", "_d", "Md", "Mx", "Mw", "Mv"]
 vow = ["O", "F", "G", "E", "K", "L", "Q", "H", "J"]
-weird = ["-N", "-Nx", "+Nx", "-Z", "-Zx", "-Zy", "-Zw", "-Zv", "+Zx", "+Zy", "+Zw", "+Zv"]
+weird = ["-N", "+Nx", "-Z", "-Zx", "-Zy", "-Zw", "-Zv", "+Zy", "+Zw", "+Zv"]
 punctuation = ["\\", "|", ":", '"', " ", "."]
 
 all_symbols = rising+falling+arrows+middle_s+vow+weird+punctuation
@@ -37,7 +37,8 @@ fonts = {
         "Phyrexian Compleat":['PhyrexianCompleat.ttf', 'Phyrexian Compleat', 'phyrexian_compleat.tsv', 1],
         "Progress Engine":['ProgressEngine.otf', 'ProgressEngine', 'progress_engine.tsv', 1],
         "Phyrexian Engraved":['Phyrexian_Engraved.otf', "Phyrexian Engraved", "phyrexian_engraved.tsv", 4],
-        "Horizontal Gibberish":['Phi_horizontal_gbrsh_9.8.ttf', 'Phi_horizontal_gbrsh_9.8', 'horizontal_gibberish.tsv', 1]
+        "Horizontal Gibberish":['Phi_horizontal_gbrsh_9.8.ttf', 'Phi_horizontal_gbrsh_9.8', 'horizontal_gibberish.tsv', 1],
+        "Phyrexian Regular":['Phyrexian-Regular.ttf', 'Phyrexian Regular', 'phyrexian_regular.tsv', 1]
         }
 
 # FUNCTIONS (word handlers)
@@ -158,7 +159,8 @@ file.close()
 fonts_all = ["Horizontal Gibberish",
              "Phyrexian Compleat",
              "Phyrexian Engraved",
-             "Progress Engine"]
+             "Progress Engine",
+             "Phyrexian Regular"]
 for font in fonts_all:
     pyglet.font.add_file(fonts[font][0])
     
