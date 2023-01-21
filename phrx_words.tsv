@@ -1,217 +1,332 @@
-Ability	JGPT	ZqOAxNeOVNx
-Add	VVH	ZLZQZe
-Apocalypse	StA	TdF-ZxLTZe
-Artifact	TCS	NqLVdZeONwMvHZvMxFZwZxZyNwQTdL-ZZwNvL-ZFZvENx
-Artifact	JGPT, TCS	ZyNwQTdL-ZZw
-Artifact	PC	ZyNwQTdL-ZZw+ZvE-ZNw
-Basic	Swamp	NeK-ZvF-ZZxNxOZqNd
-Battlefield	SWO	OMxZyZxVK-ZwNwNxONwQZx
-Battlefield	UtH	OMxZyZxVK-ZwNwNxONwZx
-Begin	PS, AWBO	-ZFFNwZxNvQ-ZEZy
-Begin	SWO, JGCA, UHP	-ZFFNwZxNvQ-ZZy
-Behold	BGMTG	NyZxETdL
-Bottom	ASA	-ZwEArG_dZyFZxMvHZdDdT
-Burn	NP	OMxZyTTqGDdGNw
-Card	SWO	+ZvE-ZNwZqVFTdMx
-Card	UHP, ASA	-ZFFZxAxZqVFTdGMx
-Card	UHP, ASA	ZqOZqVFTdMx
-Card	UHP	ZqTdLZeCrZqVFTdGMx
-Card	JGCA	ZqVFFTdMx
-Card	TCS, StA, PC	ZqVFTdMx
-Card	YT	ZqVGGTdQMx
-Card	PC	VZqVFFTdMx
-Cast	JGPT	ZQZwENd
-Cast	TCS	ZQZwNdDdNyLTdVd
-Cast	JGPT, ASA	ZQ-ZwQNd
-Cenobite	ENGC	MxNyL-ZNxArKTdHZZx
-Choose	JGPT	NqMxNxL-ZwQTq
-Compleat	TCS, SL, SLF, PSL, ASA	Zv_dFTdENwMv
-Complete	NP	+Zv_dTdL+ZwET
-Control	VVH, TCS	TdL+ZwTZyNwQ-Zv_d
-Control	ENGC, UtH	ZyNwQ-ZvE_d
-Control	ENGC, UtH	ZyNwQ-ZvQ_d
-Copy	TCS	NvL-ZFZvNxZx_dQNwZxTdL+ZwT
-Copy	JGPT	ZqOAxZx_dQNwZxTdL+ZwT
-Copy	JGPT	Zx_dQNwZxTdL-ZwT
-Cost	AWBOArticle	Zd_dFZwNyLTdQVd
-Cost	TCS	ZQZwNdDdNyLTdVd
-Counter	JGPT	MxQZyKTd
-Counter	VMR, ASA	VdQQNyVe+Zw
-Crawler	PC	ZVEZdTd
-Create	JGCA	TdL+ZwGT
-Create	TCS	TdL+ZwKT
-Create	ASA	TdL-ZwQT
-Creature	UtH, TCS, ASA, Dismember	+ZvE-ZNw
-Creature	SWO	+ZvE-ZNwZqVFTdMx
-Creature	ASA	NqF+ZvE-ZNw
-Creature	ENGC, UtH, SWO, JGCA, VVH, VMR, JGPT, UHP	NqLVdZe+ZvE-ZNw
-Creature	AWBO	-N-ZvEE-ZNw
-Creature	ASA	ZqO-ZvEE-ZNw
-Creature	ENGC, UtH, ASA	-ZvEE-ZNw
-Creature	PC	ZyNwQTdL-ZZw+ZvE-ZNw
-Death	AWBO	NxQZyNw
-Deathtouch	StA	NeVFNxQZyNw-ZOZwMx
-Destroy	NP	TdL+ZwTONw+Zv_dZqFZyHMx
-Distribute	ASA	NyCdZwENQZw
-Draw	JGCA	TZvDdJMvQV
-Draw	UHP	TZvDdLMvEV
-Draw	TCS, StA, PC	TZvDdLMvQV
-Edition	SL	VTdMxZvDdZe
-Edition	SLF	ZqVFTdMxZvHDdZe
-Emblem	ASA	AxZwL_dLZwT
-Embrace	AWBOArticle	Zq+NxDdJMvLZd
-Embrace	BGMTG	Zq+NxDdJMvZd
-Evolution	PS	MvOZw+NxZqFMvMv
-Evolution	PS	MxNyL-ZNxZqFMvMv
-Exile	UHP	AxNwOZxE-Z
-Exile	UHP	AxNwO-ZxQ-Z
-Exile	TCS	AxNwOZx-Z
-Exile	YT	-NAxNwOZx-ZNxONwZxNdO
-Exile	YT	Zd_dAxNwOZx-ZNxONwZx
-Face	YT, AWBO	TdLZx_dAx
-Fall	AWBOArticle	+ZwHCr-ZwQT
-Father	PS, NP, YT	TH-ZGNx
-Fear	AWBO	NwVFNwGAx
-February	BGMTG	+ZwQCrLNx-ZwN
-Flash	JGCA	NeVFMdFZw_dNqQTMv
-Flay	AWBO	NeJMdLZq
-Flesh	AWBO	-ZOZvGDdNwTdL+ZwGT
-Flesh	AWBOLive	Zd_d-ZOZvGDdGNw
-Foil	SLF	+Zv-ZZwFZxN
-Forest	FAForest	-ZHZqNxOMvNd
-Get	ENGC, UtH	NqFZxLZvEZy
-Get	ASA	ZxLZvEZy
-Get	ASA, Dismember	ZxLZvGZy
-Goal	JGCA	-Zv_d_dQZvMvNxONwZx
-Graveyard	YT	-NNxQZyNwFVVNxONwZx
-Graveyard	SWO	Zd_dNxQZyNwFVVNxONwQZx
-Graveyard	TCS	Zd_dNxQZyNwFVVNxONwZx
-Great	PS	MxNyL-ZNx
-Great	ENGC	MxNyL-ZNxArKTdHZZx
-Great	NP	MxNyL-ZNxTd+ZwGT
-Great	AWBO	MxNyL-ZNxTdL+ZwT
-Great	PS	MxNyL-ZNxZqFMvMv
-Great	AWBOArticle	MxNyL-ZGNx
-Hand	ASA	TdJZyQ_d
-Hand	PC	Zd_dTdJZyQ_d
-Haste	UtH, VMR	NeVFMdFZw_dNQVZw
-Haste	UHP	NeVFMdFZw_dNQV-ZZw
-Heretic	UHP	TqZw-ZGZwZe
-Hidden	UtH	ONw-ZxE+ZwFZDdMv
-Horror	PC	MxNyNqJAxNw
-Hunger	VVH	ZeLZeZe
-Immortality	AWBO	NeVFONw-ZxENxQZyNw
-Island	FAIsland	ZwVeNxOZqNd
-Knee	AWBOArticle	-N-ZvTeHZxQNw
-Land	Swamp	NeK-ZvF-ZZxNxOZqNd
-Land	VVH	NxOZqNd
-Land	VVH	ZqOAxNxOZqNd
-Legendary	ENGC, UtH, SWO, JGCA, VVH, VMR, JGPT, UHP, StA	NqLVdZe+ZvE-ZNw
-Legendary	TCS	NqLVdZeONwMvHZvMxFZwZxZyNwQTdL-ZZwNvL-ZFZvENx
-Legendary	TCS, ASA	NqLVdZeTdT-NQZvTETdZx
-Library	UHP	ZxEZwZxNxONwEZx
-Library	UHP, ASA	ZxEZwZxNxONwQZx
-Library	ASA	ZxEZwZxNxONw-ZQZx
-Library	YT	ZxEZwZxNxONwZx
-Machine	PS	VdJJ-ZZe
-Machine	NP	VdJ-ZZe-ZO-ZVZeVOVV
-Machine	AWBOArticle	VdJ-ZZeMwJNdNq
-Make	AWBO	-ZOZvGDdNwTdL+ZwGT
-Mana	VVH	NqFTL-ZTdNeGZvET
-Mana	NP	TL-ZTd
-Mana	VVH	TL-ZTdNeG-ZvQT
-Mana	VVH	TL-ZTdZvKZwZw
-Mind	NP	ZxOCrFDdZx
-Mother	AWBOArticle	VdJ-ZZeMwJNdNq
-Mountain	FAMount	ZwZxLZwNw
-New	JGPT	MxHZvDdLZvZxMwGNwZx
-New	NP	MxHZvDdLZvZx-ZTqTdENwGNw
-New	NP	MxHZvDdZvZx+ZvGDdNwZwENxOZeNd
-Next	VVH, TCS	ZqTdLZeCrONwNeGZvTZyZvETdGAxZvNwE
-Next	UHP	ZqTdLZeCrZqVFTdGMx
-Notebook	TCS	ZxLT-ZVdHH-ZDdQZwNwZxEZwZx
-Offer	AWBO	-ZQZe-ZONyV
-Opponent	ENGC, UtH, SWO, JGCA, VVH, VMR, JGPT, UHP, StA, ASA	ONwTdJZyAx
-Opponent	PC	LNyOV-ZONwTdJZyAx
-Other	ENGC	MvL_d_d
-Other	ENGC	MvL_d_dZwENxOOZeNd
-Perfect	AWBO	VdTdE+ZwHT
-Perfect	PS	VdTdL+ZwET
-Perfect	JGCA	VdTdL+ZwT+ZvGDdNwZwENxOZeNd
-Perfect	BGMTG, Merch, WIJ	VdTdL+ZwT
-Permanent	VMR	OMxZy-ZLMvZxFVVNdO
-Permanent	TCS	-ZLMvZxFVV
-Permanent	TCS	ZqOAx-ZLMvZxFVV
-Phyrexia	ENGC, PS	+ZvGDdNwZwENxOZeNd
-Phyrexia	AWBO	MxHZvDdLZv+ZvGDdNwZwENxGZeNd
-Phyrexia	NP	MxHZvDdZvZx+ZvGDdNwZwENxOZeNd
-Phyrexia	JGCA	VdTdL+ZwT+ZvGDdNwZwENxOZeNd
-Phyrexia	BGMTG	MxHZvDdLZvZx+ZvGDdNwZwENxOZqNd
-Phyrexia	AWBOLive	+ZvGDdNwZwENxOZeHNd
-Plains	FAPlains	-ZFAxZy_d
-Planeswalker	TCS, ASA	NqLVdZeTdT-NQZvTETdZx
-Planeswalker	ASA	NqLVdZeTdT-NQZvTETdZxNdO
-Play	UHP	ZQZwENd
-Play	YT, UHP	ZQ-ZwQNd
-Player	VMR	OMxZyTdJZyAx
-Praetor	ENGC, UtH, JGCA, SWO, VVH, VMR, JGPT, UHP, StA	ZvNwLVdZxDd
-Process	JGCA	ZyZvETdAxHZdDdT
-Progress	JGPT	-ZwGZx-ZvZx
-Psychosis	PC	VdF+ZyZeNeVF-ZN
-Put	VMR	+NxO-ZE-Z
-Put	VMR	+NxO-ZQ-Z
-Put	VMR	NqF+NxO-ZE-Z
-Reduce	JGCA, TCS	TJNeGZe
-Resistence	UtH	TDdHZdTdZyVeDdCrVF-ZZe
-Reveal	AWBO	ZwDdEZvGZe
-Reveal	ASA	ZwDdEZvQZe
-Sacrifice	SWO	TdH-ZZ-ZQZeGT
-Sage	TCS	NvKNNe
-See	PS	NqFDdQZwET
-Skin	PA	ONwZxNwMx
-Skin	AWBO	ZGZxZvZxNwGMx
-Skin	NP	Zv_dZxNwENwGMx
-Sorcery	YT, JGPT	ZwLMxZv_dNqQTMv
-Sow	AWBOLive	NxVFNyLMx
-Spell	TCS	NqQQTQMv
-Step	SWO, UHP	Zd_dLZMdZyZvETdGAx
-Step	SWO, UHP	Zd_dLZMdZyZvKTdQAx
-Step	VVH, TCS	ZqTdLZeCrONwNeGZvTZyZvETdGAxZvNwE
-Step	JGCA	-Zv_dTdL+ZwTZyZvKTdQAx
-Subscribe	BGMTG	Md-ZxKMvLLAr
-Surrender	BGMTG, Merch, WIJ	ZvTdMvAxL-ZQNx
-Swamp	Swamp, FASwamp	ZyLMxZwT
-Swampwalk	SWO	NeVFZyLMxZwTVdTETdZx
-Tap	TCS	NeGZvT
-Tap	VVH	NqFTL-ZTdNeGZvET
-Tap	VVH	TL-ZTdNeG-ZvQT
-Target	SWO, TCS, ASA, Dismember	MwGNwQZx
-Target	JGPT	MxHZvDdLZvZxMwGNwZx
-Testament	YT	NvEZdNyMvZxMvZyG_dT
-Three	ASA	+ZwF
-Three	ASA	NwEONwZwHDdNwZeDd+ZwF-ZO
-Token	TCS	NqLVdZeONwMvHZvMxFZwZxZyNwQTdL-ZZwNvL-ZFZvENx
-Token	TCS	NvL-ZFZvNxZx_dQNwZxTdL+ZwT
-Trample	VVH, VMR	NeVFZwNvJ-ZyZvLTd-ZZe
-Trigger	JGPT	ZdMwOCdZqZx
-Turn	YT, UHP, ASA, Dismember	MwZwFZqODdHTdNe
-Turn	YT	MwZwFZqODdHTdNw
-Turn	JGPT	NwEDdHTdNe-ZFF-ZO
-Turn	UHP	ZqODdHTdENe
-Two	ASA	+ZwQ
-Tyrant	JGPT	ZeDdVdO-ZxDdZw
-Untap	VVH, TCS	NqFONwNeGZvET
-Untap	VVH, TCS	ZqTdLZeCrONwNeGZvTZyZvETdGAxZvNwE
-Vigilance	ENGC, ASA	NeVFZvTdDdQZwT
-Voice	VVH	NwQZxMxGN
-Voice	AWBO	NwQZxMxLN
-Welcome	AWBOArticle	MxZdENyQZd
-Welcome	BGMTG	MxZdENyLLZd
-Whisper	ENGC	NqF-ZFArE-ZEZx
-Whisper	SWO	TdL+ZwT-ZFArEE-ZZx
-Whisper	NP	-ZFArEE-ZZx
-Work	NP	MxNyL-ZNxTd+ZwGT
-Work	AWBO	MxNyL-ZNxTdL+ZwT
-World	ENGC	MvL_d_dZwENxOOZeNd
-World	AWBO	ZqOZwENxOZeNd
-World	AWBOLive	ZqOZwENxOZqNd
+Ability	NEO_Jin	ZqOAxNeOVNx
+Ability	ONE_Vraska	ZqVFTdMx-ZvKKZwZwNeVFF-ZZxNwO
+Ability	ONE_Lukka	+ZvEE-ZNwAxZxOAxZv_dFNeTdNeVF-ZGZxNdO
+Ability	ONE_Lukka	NeVF-ZZx
+Activate	ONE_Lukka	+ZvEE-ZNwAxZxOAxZv_dFNeTdNeVF-ZGZxNdO
+Activate	ONE_Lukka	AxZxOAxZv_dFNeQTd
+Add	NPH_Vorin, ONE_Vraska, ONE_Lukka	ZLZQZe
+Agent	NPH_Agent	ZeLTdVDd
+Animist	ONE_Nissa	TdL+ZwTTdMvL-ZZy
+Annex	NPH_Annex	-Zw_dOZxZwGZw
+Apocalypse	DMU_Sheo	TdF-ZxLTZe
+Arena	ONE_PhrxArena	ZyLZ-ZNxONwZx
+Artifact	NEO_Tami	NqLVdZeONwMvHZvMxFZwZxZyNwQTdL-ZZwNvL-ZFZvENx
+Artifact	NEO_Jin, NEO_Tami, NPH_Batterskull, NPH_Annex, ONE_Vraska, ONE_Nissa	ZyNwQTdL-ZZw
+Artifact	Promo_PsyCrawl	ZyNwQTdL-ZZw+ZvE-ZNw
+Ascend	ONE_Nissa	ZvTdTETdNx
+Attack	NPH_Annex	ZeNqGAxZxNw
+Attack	ONE_Nahiri	NqFZeNqFAxZxENw
+Basic	Promo_Swamp	NeK-ZvF-ZZxNxOZqNd
+Basic	ONE_Island, ONE_Plains, ONE_Forest, ONE_Mount, ONE_Swamp	NeK-ZvF-ZZx
+Battlefield	NPH_Sheo	OMxZyZxVK-ZwNwNxONwQZx
+Battlefield	NPH_Ura	OMxZyZxVK-ZwNwNxONwZx
+Beast	ONE_Lukka	CrFVV+ZvGDdNwZvTdZvE-ZZw+ZvE-ZNwZvL-ZFZvNx
+Beg	NPH_Elf	ZvTd-ZOZxMvNwLLTd
+Begin	PhrxScriptures, MBS_Trailer	-ZFFNwZxNvQ-ZEZy
+Begin	NPH_Sheo, NPH_Jin, SNC_Ura, ONE_PhrxArena, ONE_Nahiri	-ZFFNwZxNvQ-ZZy
+Behold	BeadleGrims, ONE_Plains	NyZxETdL
+Betrayal	ONE_Vraska	-ZvTdHZwNw
+Bind	ONE_Lukka	ZwETqZx
+Black	C19_Krrik	NvLNwZx
+Blight	NPH_Agent	CrMdOZxNeNd
+Bottom	DMU_Ajani	-ZwEArG_dZyFZxMvHZdDdT
+Burn	NPH_Trailer	OMxZYawg_TestTqGDdGNw
+Card	NPH_Sheo	+ZvE-ZNwZqVFTdMx
+Card	SNC_Ura, DMU_Ajani	-ZFFZxAxZqVFTdGMx
+Card	SNC_Ura, DMU_Ajani, ONE_Nahiri	ZqOZqVFTdMx
+Card	SNC_Ura	ZqTdLZeCrZqVFTdGMx
+Card	NPH_Jin, ONE_Jace	ZqVFFTdMx
+Card	NEO_Tami, DMU_Sheo, Promo_PsyCrawl, ONE_PhrxArena, ONE_Jace, ONE_Vraska, ONE_Nahiri	ZqVFTdMx
+Card	Yawg_Test	ZqVGGTdQMx
+Card	Promo_PsyCrawl	VZqVFFTdMx
+Card	ONE_Vraska	ZqVFTdMx-ZvKKZwZwNeVFF-ZZxNwO
+Cast	NEO_Jin	ZQZwENd
+Cast	NEO_Tami	ZQZwNdDdNyLTdVd
+Cast	NEO_Jin, DMU_Ajani, C19_Krrik	ZQ-ZwQNd
+Cenobite	NPH_Norn	MxNyL-ZNxArKTdHZZx
+Choose	NEO_Jin	NqMxNxL-ZwQTq
+Color	ONE_Vraska	ZJZvMvHZvMxFZwZx
+Color	NEO_Tami	NqLVdZeONwMvHZvMxFZwZxZyNwQTdL-ZZwNvL-ZFZvENx
+Combat	ONE_Nahiri	NwEZx-ZELNyOV-ZZxVK-ZwNw-ZO
+Compleat	NEO_Tami, SLair_Praetors, SLairF_Praetors, PSL, DMU_Ajani, ONE_Jace, ONE_Vraska, ONE_Lukka, ONE_Nissa, ONE_Nahiri	Zv_dFTdENwMv
+Complete	NPH_Trailer	+Zv_dTdL+ZwET
+Control	NPH_Vorin, NEO_Tami	TdL+ZwTZyNwQ-Zv_d
+Control	NPH_Norn, NPH_Ura	ZyNwQ-ZvE_d
+Control	NPH_Norn, NPH_Ura, NPH_Annex, ONE_Nissa, ONE_Lukka	ZyNwQ-ZvQ_d
+Control	NPH_Annex	ZyNwQ-ZvG_d
+Copy	NEO_Tami	NvL-ZFZvNxZx_dQNwZxTdL+ZwT
+Copy	NEO_Jin	ZqOAxZx_dQNwZxTdL+ZwT
+Copy	NEO_Jin, ONE_Nahiri	Zx_dQNwZxTdL-ZwT
+Cost	ONE_Article	Zd_dFZwNyLTdQVd
+Cost	NEO_Tami	ZQZwNdDdNyLTdVd
+Cost	ONE_Nahiri	ZyODdNyLTdVdLMvODdNxZeDdTJNeZeTd-NFDdFF-Z-NQZyZxZwETqGZx
+Counter	NEO_Jin	MxQZyKTd
+Counter	KHM_Vorin, DMU_Ajani	VdQQNyVe+Zw
+Counter	C19_Krrik	VdQNVe+Zw
+Crawler	Promo_PsyCrawl	ZVEZdTd
+Create	NPH_Jin	TdL+ZwGT
+Create	NEO_Tami	TdL+ZwKT
+Create	DMU_Ajani, ONE_Nissa, ONE_Lukka, ONE_Nahiri	TdL-ZwQT
+Creature	NPH_Ura, NEO_Tami, DMU_Ajani, Promo_Dismember, NPH_Elf, NPH_Agent, NPH_InkNexus, ONE_Jace, ONE_Vraska, ONE_Nahiri	+ZvE-ZNw
+Creature	NPH_Sheo	+ZvE-ZNwZqVFTdMx
+Creature	DMU_Ajani	NqF+ZvE-ZNw
+Creature	NPH_Norn, NPH_Ura, NPH_Sheo, NPH_Jin, NPH_Vorin, KHM_Vorin, NEO_Jin, SNC_Ura, C19_Krrik	NqLVdZe+ZvE-ZNw
+Creature	MBS_Trailer	-N-ZvEE-ZNw
+Creature	DMU_Ajani	ZqO-ZvEE-ZNw
+Creature	NPH_Norn, NPH_Ura, DMU_Ajani, NPH_Annex, ONE_Nissa	-ZvEE-ZNw
+Creature	Promo_PsyCrawl, NPH_InkNexus	ZyNwQTdL-ZZw+ZvE-ZNw
+Creature	NPH_Batterskull	ZyFZv_dZx+ZvE-ZNw
+Creature	NPH_Annex	NwE-ZMxZxLNyOV+ZvE-ZNw-ZO
+Creature	ONE_Nissa	CrFVV+ZvGDdNwMxNyNqJAxNw+ZvE-ZNwNvL-ZFZvNx
+Creature	ONE_Lukka	+ZvEE-ZNwAxZxOAxZv_dFNeTdNeVF-ZGZxNdO
+Creature	ONE_Lukka	CrFVV+ZvGDdNwZvTdZvE-ZZw+ZvE-ZNwZvL-ZFZvNx
+Creature	ONE_Lukka	-ZJZvLMvODdNx+ZvEE-ZNwNqLVdZeTdT-NQQZvTETdZxNwONdO
+Creature	ONE_Lukka	NqLMdZvTdZwHDdNwTdQ-ZNv+ZvEE-ZNw
+Creature	ONE_Nahiri	ZqO+ZvE-ZNw
+Damage	ONE_Lukka	NdZvLAxQZw
+Death	MBS_Trailer	NxQZyNw
+Deathtouch	DMU_Sheo	NeVFNxQZyNw-ZOZwMx
+Destroy	NPH_Trailer	TdL+ZwTONw+Zv_dZqFZyHMx
+Discard	ONE_Nahiri	MxZxE-ZyQNq
+Dismember	Promo_Dismember	AxONwZwENvL-ZZyMvETDd
+Distribute	DMU_Ajani	NyCdZwENQZw
+Draw	NPH_Jin	TZvDdJMvQV
+Draw	SNC_Ura	TZvDdLMvEV
+Draw	NEO_Tami, DMU_Sheo, Promo_PsyCrawl, ONE_PhrxArena, ONE_Jace, ONE_Vraska, ONE_Nahiri	TZvDdLMvQV
+Each	Promo_PsyCrawl	LNyOV-ZONwTdJZyAx
+Each	C19_Krrik	LNyOV-Z
+Each	NPH_Annex	NwE-ZMxZxLNyOV+ZvE-ZNw-ZO
+Each	ONE_Nissa	LNyOV-ZHZqNxOMvNd
+Each	ONE_Nahiri	NwEZx-ZELNyOV-ZZxVK-ZwNw-ZO
+Edition	SLair_Praetors	VTdMxZvDdZe
+Edition	SLairF_Praetors	ZqVFTdMxZvHDdZe
+Elf	NPH_Elf	VdL_dNv
+Emblem	DMU_Ajani	AxZwL_dLZwT
+Embrace	ONE_Article	Zq+NxDdJMvLZd
+Embrace	BeadleGrims	Zq+NxDdJMvZd
+Enchantment	ONE_PhrxArena	TGNxMw
+Equip	NPH_Batterskull	ZyFZv_dZx+ZvE-ZNw
+Equip	NPH_Batterskull	ZyFZv_dZx
+Equipment	NPH_Batterskull	ZyFZvTZx
+Evolution	PhrxScriptures	MvOZw+NxZqFMvMv
+Evolution	PhrxScriptures	MxNyL-ZNxZqFMvMv
+Evolution	ONE_Forest	ZqFMvEMv
+Exile	SNC_Ura, ONE_Nahiri	AxNwOZxE-Z
+Exile	SNC_Ura	AxNwO-ZxQ-Z
+Exile	NEO_Tami	AxNwOZx-Z
+Exile	Yawg_Test	-NAxNwOZx-ZNxONwZxNdO
+Exile	Yawg_Test	Zd_dAxNwOZx-ZNxONwZx
+Face	Yawg_Test, MBS_Trailer	TdLZx_dAx
+Fall	ONE_Article	+ZwHCr-ZwQT
+Father	PhrxScriptures, NPH_Trailer, Yawg_Test	TH-ZGNx
+Fear	MBS_Trailer, ONE_Swamp	NwVFNwGAx
+February	BeadleGrims	+ZwQCrLNx-ZwN
+Fill	NPH_Elf	ZCdK_dL-Zv
+Flash	NPH_Jin	NeVFMdFZw_dNqQTMv
+Flay	MBS_Trailer	NeJMdLZq
+Flesh	MBS_Trailer	-ZOZvGDdNwTdL+ZwGT
+Flesh	ONE_Live	Zd_d-ZOZvGDdGNw
+Flying	NPH_InkNexus	NeVFZxKMxZy
+Foil	SLairF_Praetors	+Zv-ZZwFZxN
+Forest	ONE_Forest	-ZHZqNxOMvNd
+Forest	ONE_Nissa	LNyOV-ZHZqNxOMvNd
+Get	NPH_Norn, NPH_Ura, NPH_InkNexus, ONE_Nahiri	NqFZxLZvEZy
+Get	DMU_Ajani, ONE_Vraska, ONE_Lukka	ZxLZvEZy
+Get	DMU_Ajani, Promo_Dismember, ONE_Jace, ONE_Nissa	ZxLZvGZy
+Get	NPH_Batterskull	NqFZxLZvGZy
+Glisten	NPH_Elf	TdL+ZwT+Zv-ZZwFZxN
+Glory	NPH_Elf	-ZJVdZ-Zx
+Goal	NPH_Jin	-Zv_d_dQZvMvNxONwZx
+Graveyard	Yawg_Test	-NNxQZyNwFVVNxONwZx
+Graveyard	NPH_Sheo	Zd_dNxQZyNwFVVNxONwQZx
+Graveyard	NEO_Tami	Zd_dNxQZyNwFVVNxONwZx
+Graveyard	ONE_Jace	NxQZyNwFVVNxONwZx
+Graveyard	ONE_Nahiri	NeVeNxQZyNwFVVNxONwQZx
+Great	PhrxScriptures	MxNyL-ZNx
+Great	NPH_Norn	MxNyL-ZNxArKTdHZZx
+Great	NPH_Trailer	MxNyL-ZNxTd+ZwGT
+Great	MBS_Trailer, ONE_Mount	MxNyL-ZNxTdL+ZwT
+Great	PhrxScriptures	MxNyL-ZNxZqFMvMv
+Great	ONE_Article	MxNyL-ZGNx
+Green	ONE_Nissa	CrFVV+ZvGDdNwMxNyNqJAxNw+ZvE-ZNwNvL-ZFZvNx
+Green	ONE_Lukka	CrFVV+ZvGDdNwZvTdZvE-ZZw+ZvE-ZNwZvL-ZFZvNx
+Hand	DMU_Ajani	TdJZyQ_d
+Hand	Promo_PsyCrawl	Zd_dTdJZyQ_d
+Hand	NPH_Batterskull	-NTdL+ZwTZwE+ZvE-ZNwTdLZy_d
+Haste	NPH_Ura, KHM_Vorin, ONE_Nahiri	NeVFMdFZw_dNQVZw
+Haste	SNC_Ura	NeVFMdFZw_dNQV-ZZw
+Heretic	SNC_Ura	TqZw-ZGZwZe
+Hidden	NPH_Ura	ONw-ZxE+ZwFZDdMv
+Horror	Promo_PsyCrawl, C19_Krrik	MxNyNqJAxNw
+Horror	ONE_Nissa	CrFVV+ZvGDdNwMxNyNqJAxNw+ZvE-ZNwNvL-ZFZvNx
+Human	NPH_Agent	-ZKTdO+Zw
+Hunger	NPH_Vorin	ZeLZeZe
+Immortality	MBS_Trailer	NeVFONw-ZxENxQZyNw
+Infect	NPH_Elf, NPH_Agent, NPH_InkNexus	NeVFCrONeNd
+Inkmoth	NPH_InkNexus	Zd_dLZMdArNvG_d_d-ZOZyZd
+Inkmoth	NPH_InkNexus	Zd_dLZMdArNvG_d_d
+Island	ONE_Island	ZwVeNxOZqNd
+Kill	ONE_Nissa	ZyLZQ-Z
+Knee	ONE_Article	-N-ZvTeHZxQNw
+Land	Promo_Swamp	NeK-ZvF-ZZxNxOZqNd
+Land	NPH_Vorin, ONE_Island, ONE_Plains, ONE_Forest, ONE_Mount, ONE_Swamp, NPH_InkNexus	NxOZqNd
+Land	NPH_Vorin	ZqOAxNxOZqNd
+Legendary	NPH_Norn, NPH_Ura, NPH_Sheo, NPH_Jin, NPH_Vorin, KHM_Vorin, NEO_Jin, SNC_Ura, DMU_Sheo	NqLVdZe+ZvE-ZNw
+Legendary	NEO_Tami	NqLVdZeONwMvHZvMxFZwZxZyNwQTdL-ZZwNvL-ZFZvENx
+Legendary	NEO_Tami, DMU_Ajani, ONE_Jace, ONE_Vraska, ONE_Lukka, ONE_Nissa, ONE_Nahiri	NqLVdZeTdT-NQZvTETdZx
+Legendary	ONE_Lukka	-ZJZvLMvODdNx+ZvEE-ZNwNqLVdZeTdT-NQQZvTETdZxNwONdO
+Less	ONE_Nahiri	ZyODdNyLTdVdLMvODdNxZeDdTJNeZeTd-NFDdFF-Z-NQZyZxZwETqGZx
+Library	SNC_Ura	ZxEZwZxNxONwEZx
+Library	SNC_Ura, DMU_Ajani	ZxEZwZxNxONwQZx
+Library	DMU_Ajani	ZxEZwZxNxONw-ZQZx
+Library	Yawg_Test	ZxEZwZxNxONwZx
+Life	NPH_Elf, C19_Krrik	TdMvL-ZZy
+Lifelink	NPH_Batterskull, C19_Krrik	NeVFTdMvL-ZZyDdL+ZvHVd
+Living Weapon	NPH_Batterskull	AxZwLZyZyZxVK+ZvZx
+Loyalty	ONE_Nissa	-NQZyZxZwETqGZx
+Loyalty	ONE_Nahiri	ZyODdNyLTdVdLMvODdNxZeDdTJNeZeTd-NFDdFF-Z-NQZyZxZwETqGZx
+Machine	PhrxScriptures, ONE_Plains	VdJJ-ZZe
+Machine	NPH_Trailer	VdJ-ZZe-ZO-ZVZeVOVV
+Machine	ONE_Article	VdJ-ZZeMwJNdNq
+Make	MBS_Trailer	-ZOZvGDdNwTdL+ZwGT
+Mana	NPH_Vorin	NqFTL-ZTdNeGZvET
+Mana	NPH_Trailer, ONE_Vraska	TL-ZTd
+Mana	NPH_Vorin	TL-ZTdNeG-ZvQT
+Mana	NPH_Vorin	TL-ZTdZvKZwZw
+Mana	ONE_Lukka	ZqOTL-ZTd
+Mill	ONE_Jace	VeOZvEZw
+Mill	ONE_Jace	VeOZvEZw
+Mind	NPH_Trailer	ZxOCrFDdZx
+Mind	ONE_Jace	-ZZxOCrFDdZx
+Minion	C19_Krrik	-ZOZyHZy-Z
+Mother	ONE_Article	VdJ-ZZeMwJNdNq
+Mother	ONE_Plains	MwJNdGNq
+Mountain	ONE_Mount	ZwZxLZwNw
+New	NEO_Jin	MxHZvDdLZvZxMwGNwZx
+New	NPH_Trailer	MxHZvDdLZvZx-ZTqTdENwGNw
+New	NPH_Trailer	MxHZvDdZvZx+ZvGDdNwZwENxOZeNd
+Next	NPH_Vorin, NEO_Tami	ZqTdLZeCrONwNeGZvTZyZvETdGAxZvNwE
+Next	SNC_Ura	ZqTdLZeCrZqVFTdGMx
+Next	ONE_Jace	+ZvJ-ZZqTdLZeCrDdHTdQNe
+Nexus	NPH_InkNexus	Zd_dLZMdArNvG_d_d-ZOZyZd
+Notebook	NEO_Tami	ZxLT-ZVdHH-ZDdQZwNwZxEZwZx
+Number	ONE_Lukka	-ZJZvLMvODdNx+ZvEE-ZNwNqLVdZeTdT-NQQZvTETdZxNwONdO
+Number	ONE_Nahiri	ZyODdNyLTdVdLMvODdNxZeDdTJNeZeTd-NFDdFF-Z-NQZyZxZwETqGZx
+Offer	MBS_Trailer	-ZQZe-ZONyV
+One	ONE_Vraska	-ZFF
+Opponent	NPH_Norn, NPH_Ura, NPH_Sheo, NPH_Jin, NPH_Vorin, KHM_Vorin, NEO_Jin, SNC_Ura, DMU_Sheo, DMU_Ajani	ONwTdJZyAx
+Opponent	Promo_PsyCrawl	LNyOV-ZONwTdJZyAx
+Other	NPH_Norn, ONE_Vraska	MvL_d_d
+Other	NPH_Norn	MvL_d_dZwENxOOZeNd
+Owner	NPH_Batterskull	-NTdL+ZwTZwE+ZvE-ZNwTdLZy_d
+Pay	C19_Krrik	-NQZyCdZeK-ZxQZx
+Pay	C19_Krrik	NqF-NQZyCdZeK-ZxQZx
+Pay	NPH_Annex	-NQZyCdZeKZxEZx
+Perfect	MBS_Trailer	VdTdE+ZwHT
+Perfect	PhrxScriptures	VdTdL+ZwET
+Perfect	NPH_Jin	VdTdL+ZwT+ZvGDdNwZwENxOZeNd
+Perfect	BeadleGrims, Merch, ONE_Jace_Art, ONE_Island, ONE_Jace	VdTdL+ZwT
+Perfection	NPH_Elf	V+ZvGDdNwVdTdL+ZwT
+Permanent	KHM_Vorin	OMxZy-ZLMvZxFVVNdO
+Permanent	NEO_Tami	-ZLMvZxFVV
+Permanent	NEO_Tami	ZqOAx-ZLMvZxFVV
+Phyrexia	NPH_Norn, PhrxScriptures	+ZvGDdNwZwENxOZeNd
+Phyrexia	MBS_Trailer	MxHZvDdLZv+ZvGDdNwZwENxGZeNd
+Phyrexia	NPH_Trailer	MxHZvDdZvZx+ZvGDdNwZwENxOZeNd
+Phyrexia	NPH_Jin	VdTdL+ZwT+ZvGDdNwZwENxOZeNd
+Phyrexia	BeadleGrims	MxHZvDdLZvZx+ZvGDdNwZwENxOZqNd
+Phyrexia	ONE_Live	+ZvGDdNwZwENxOZeHNd
+Plains	ONE_Plains	-ZFAxZy_d
+Planeswalker	NEO_Tami, DMU_Ajani, ONE_Jace, ONE_Vraska, ONE_Lukka, ONE_Nissa, ONE_Nahiri	NqLVdZeTdT-NQZvTETdZx
+Planeswalker	DMU_Ajani, NPH_Annex	NqLVdZeTdT-NQZvTETdZxNdO
+Planeswalker	ONE_Lukka	-ZJZvLMvODdNx+ZvEE-ZNwNqLVdZeTdT-NQQZvTETdZxNwONdO
+Play	SNC_Ura	ZQZwENd
+Play	Yawg_Test, SNC_Ura	ZQ-ZwQNd
+Player	KHM_Vorin	OMxZyTdJZyAx
+Player	ONE_Jace, ONE_Vraska, ONE_Nahiri	TdJZyAx
+Power	ONE_Lukka	NqLMdZvTdZwHDdNwTdQ-ZNv+ZvEE-ZNw
+Praetor	NPH_Norn, NPH_Ura, NPH_Jin, NPH_Sheo, NPH_Vorin, KHM_Vorin, NEO_Jin, SNC_Ura, DMU_Sheo	ZvNwLVdZxDd
+Process	NPH_Jin	ZyZvETdAxHZdDdT
+Progress	NEO_Jin	-ZwGZx-ZvZx
+Proliferate	ONE_Vraska	VdEZwZx_dENwKZy
+Psychosis	Promo_PsyCrawl	VdF+ZyZeNeVF-ZN
+Put	KHM_Vorin	+NxO-ZE-Z
+Put	KHM_Vorin	+NxO-ZQ-Z
+Put	KHM_Vorin	NqF+NxO-ZE-Z
+Reduce	NPH_Jin, NEO_Tami	TJNeGZe
+Resistence	NPH_Ura	TDdHZdTdZyVeDdCrVF-ZZe
+Return	NPH_Batterskull	NqF-ZF+NxZxOTdQTd
+Reveal	MBS_Trailer	ZwDdEZvGZe
+Reveal	DMU_Ajani	ZwDdEZvQZe
+Rogue	NPH_Agent	NxQZx_dMdOZxAx
+Ruin	ONE_Lukka	-NNvVEMwZv
+Sacrifice	NPH_Sheo	TdH-ZZ-ZQZeGT
+Sacrifice	ONE_Vraska	TdH-ZZ-ZQZeQT
+Sage	NEO_Tami	NvKNNe
+Sective	NPH_Agent	CrZvHDdZxZx
+See	PhrxScriptures	NqFDdQZwET
+Skin	PhrxAltar	ONwZxNwMx
+Skin	MBS_Trailer	ZGZxZvZxNwGMx
+Skin	NPH_Trailer	Zv_dZxNwENwGMx
+Son	C19_Krrik	-ZF-ZG_d
+Sorcery	Yawg_Test, NEO_Jin	ZwLMxZv_dNqQTMv
+Sow	ONE_Live, ONE_Swamp	NxVFNyLMx
+Spell	NEO_Tami	NqQQTQMv
+Spell	C19_Krrik	NqQTMv
+Spend	ONE_Lukka	NqF-NFMvQZv
+Step	NPH_Sheo, SNC_Ura	Zd_dLZMdZyZvETdGAx
+Step	NPH_Sheo, SNC_Ura, ONE_PhrxArena	Zd_dLZMdZyZvKTdQAx
+Step	NPH_Vorin, NEO_Tami	ZqTdLZeCrONwNeGZvTZyZvETdGAxZvNwE
+Step	NPH_Jin	-Zv_dTdL+ZwTZyZvKTdQAx
+Step	ONE_Nahiri	-Zv_dTdL+ZxTZyZvETdAx
+Sting	ONE_Vraska	-ZLNvG-Z
+Subscribe	BeadleGrims	Md-ZxKMvLLAr
+Surrender	BeadleGrims, Merch, ONE_Jace_Art	ZvTdMvAxL-ZQNx
+Surveilance	NPH_Agent	Ny-NEDdQ-ZwQT
+Swamp	Promo_Swamp, ONE_Swamp	ZyLMxZwT
+Swampwalk	NPH_Sheo	NeVFZyLMxZwTVdTETdZx
+Tap	NEO_Tami	NeGZvT
+Tap	NPH_Vorin	NqFTL-ZTdNeGZvET
+Tap	NPH_Vorin	TL-ZTdNeG-ZvQT
+Target	NPH_Sheo, NEO_Tami, DMU_Ajani, Promo_Dismember, ONE_Jace, ONE_Vraska, ONE_Lukka, ONE_Nahiri	MwGNwQZx
+Target	NEO_Jin	MxHZvDdLZvZxMwGNwZx
+Testament	Yawg_Test	NvEZdNyMvZxMvZyG_dT
+Three	DMU_Ajani	+ZwF
+Three	DMU_Ajani	NwEONwZwHDdNwZeDd+ZwF-ZO
+Three	ONE_Jace	+ZwF
+Times	ONE_Jace	ZxKVZv
+Token	NEO_Tami	NqLVdZeONwMvHZvMxFZwZxZyNwQTdL-ZZwNvL-ZFZvENx
+Token	NEO_Tami	NvL-ZFZvNxZx_dQNwZxTdL+ZwT
+Token	ONE_Nissa	CrFVV+ZvGDdNwMxNyNqJAxNw+ZvE-ZNwNvL-ZFZvNx
+Token	ONE_Lukka	CrFVV+ZvGDdNwZvTdZvE-ZZw+ZvE-ZNwZvL-ZFZvNx
+Token	ONE_Nahiri	NvL-ZFZvNx
+Toxic	ONE_Lukka	CdLNqZy
+Trample	NPH_Vorin, KHM_Vorin	NeVFZwNvJ-ZyZvLTd-ZZe
+Trample	ONE_Nissa	NeVFZwNvJ-ZyZvLTd-ZZeNwO
+Treasure	ONE_Vraska	-Zy_dFTeMx
+Trigger	NEO_Jin	ZdMwOCdZqZx
+Turn	Yawg_Test, SNC_Ura, DMU_Ajani, Promo_Dismember, NPH_InkNexus, ONE_Nissa	MwZwFZqODdHTdNe
+Turn	Yawg_Test	MwZwFZqODdHTdNw
+Turn	NEO_Jin	NwEDdHTdNe-ZFF-ZO
+Turn	SNC_Ura	ZqODdHTdENe
+Turn	ONE_Jace, ONE_Nahiri	+ZvJ-ZZqTdLZeCrDdHTdQNe
+Two	DMU_Ajani	+ZwQ
+Type	ONE_Vraska	ZqVFTdMx-ZvKKZwZwNeVFF-ZZxNwO
+Tyrant	NEO_Jin	ZeDdVdO-ZxDdZw
+Unforgiving	ONE_Nahiri	TeGZyNy
+Untap	NPH_Vorin, NEO_Tami	NqFONwNeGZvET
+Untap	NPH_Vorin, NEO_Tami	ZqTdLZeCrONwNeGZvTZyZvETdGAxZvNwE
+Vigilance	NPH_Norn, DMU_Ajani, Promo_Batterskull	NeVFZvTdDdQZwT
+Voice	NPH_Vorin	NwQZxMxGN
+Voice	MBS_Trailer	NwQZxMxLN
+Warrior	NPH_Elf	TdL+ZwTZxArG+ZvZx
+Welcome	ONE_Article	MxZdENyQZd
+Welcome	BeadleGrims	MxZdENyLLZd
+Whisper	NPH_Norn	NqF-ZFArE-ZEZx
+Whisper	NPH_Sheo	TdL+ZwT-ZFArEE-ZZx
+Whisper	NPH_Trailer	-ZFArEE-ZZx
+Work	NPH_Trailer	MxNyL-ZNxTd+ZwGT
+Work	MBS_Trailer	MxNyL-ZNxTdL+ZwT
+World	NPH_Norn	MvL_d_dZwENxOOZeNd
+World	MBS_Trailer	ZqOZwENxOZeNd
+World	ONE_Live	ZqOZwENxOZqNd
