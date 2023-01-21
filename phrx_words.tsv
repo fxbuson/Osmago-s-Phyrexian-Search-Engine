@@ -1,7 +1,7 @@
 Ability	NEO_Jin	ZqOAxNeOVNx
 Ability	ONE_Vraska	ZqVFTdMx-ZvKKZwZwNeVFF-ZZxNwO
 Ability	ONE_Lukka	+ZvEE-ZNwAxZxOAxZv_dFNeTdNeVF-ZGZxNdO
-Ability	ONE_Lukka	NeVF-ZZx
+Ability	ONE_Lukka, ONE_Norn	NeVF-ZZx
 Activate	ONE_Lukka	+ZvEE-ZNwAxZxOAxZv_dFNeTdNeVF-ZGZxNdO
 Activate	ONE_Lukka	AxZxOAxZv_dFNeQTd
 Add	NPH_Vorin, ONE_Vraska, ONE_Lukka	ZLZQZe
@@ -20,6 +20,7 @@ Basic	Promo_Swamp	NeK-ZvF-ZZxNxOZqNd
 Basic	ONE_Island, ONE_Plains, ONE_Forest, ONE_Mount, ONE_Swamp	NeK-ZvF-ZZx
 Battlefield	NPH_Sheo	OMxZyZxVK-ZwNwNxONwQZx
 Battlefield	NPH_Ura	OMxZyZxVK-ZwNwNxONwZx
+Battlefield	ONE_Norn	ZxVK-ZwNwNxONwZx
 Beast	ONE_Lukka	CrFVV+ZvGDdNwZvTdZvE-ZZw+ZvE-ZNwZvL-ZFZvNx
 Beg	NPH_Elf	ZvTd-ZOZxMvNwLLTd
 Begin	PhrxScriptures, MBS_Trailer	-ZFFNwZxNvQ-ZEZy
@@ -30,6 +31,7 @@ Bind	ONE_Lukka	ZwETqZx
 Black	C19_Krrik	NvLNwZx
 Blight	NPH_Agent	CrMdOZxNeNd
 Bottom	DMU_Ajani	-ZwEArG_dZyFZxMvHZdDdT
+Bring	NPH_Norn	ZvOTdLTd
 Burn	NPH_Trailer	OMxZYawg_TestTqGDdGNw
 Card	NPH_Sheo	+ZvE-ZNwZqVFTdMx
 Card	SNC_Ura, DMU_Ajani	-ZFFZxAxZqVFTdGMx
@@ -48,6 +50,8 @@ Choose	NEO_Jin	NqMxNxL-ZwQTq
 Color	ONE_Vraska	ZJZvMvHZvMxFZwZx
 Color	NEO_Tami	NqLVdZeONwMvHZvMxFZwZxZyNwQTdL-ZZwNvL-ZFZvENx
 Combat	ONE_Nahiri	NwEZx-ZELNyOV-ZZxVK-ZwNw-ZO
+Come	NPH_Ura	THAxZy
+Come	NPH_Trailer	THAxHEZy
 Compleat	NEO_Tami, SLair_Praetors, SLairF_Praetors, PSL, DMU_Ajani, ONE_Jace, ONE_Vraska, ONE_Lukka, ONE_Nissa, ONE_Nahiri	Zv_dFTdENwMv
 Complete	NPH_Trailer	+Zv_dTdL+ZwET
 Control	NPH_Vorin, NEO_Tami	TdL+ZwTZyNwQ-Zv_d
@@ -57,6 +61,7 @@ Control	NPH_Annex	ZyNwQ-ZvG_d
 Copy	NEO_Tami	NvL-ZFZvNxZx_dQNwZxTdL+ZwT
 Copy	NEO_Jin	ZqOAxZx_dQNwZxTdL+ZwT
 Copy	NEO_Jin, ONE_Nahiri	Zx_dQNwZxTdL-ZwT
+Copy	ONE_Norn	Zx_dQNwZx
 Cost	ONE_Article	Zd_dFZwNyLTdQVd
 Cost	NEO_Tami	ZQZwNdDdNyLTdVd
 Cost	ONE_Nahiri	ZyODdNyLTdVdLMvODdNxZeDdTJNeZeTd-NFDdFF-Z-NQZyZxZwETqGZx
@@ -70,7 +75,7 @@ Create	DMU_Ajani, ONE_Nissa, ONE_Lukka, ONE_Nahiri	TdL-ZwQT
 Creature	NPH_Ura, NEO_Tami, DMU_Ajani, Promo_Dismember, NPH_Elf, NPH_Agent, NPH_InkNexus, ONE_Jace, ONE_Vraska, ONE_Nahiri	+ZvE-ZNw
 Creature	NPH_Sheo	+ZvE-ZNwZqVFTdMx
 Creature	DMU_Ajani	NqF+ZvE-ZNw
-Creature	NPH_Norn, NPH_Ura, NPH_Sheo, NPH_Jin, NPH_Vorin, KHM_Vorin, NEO_Jin, SNC_Ura, C19_Krrik	NqLVdZe+ZvE-ZNw
+Creature	NPH_Norn, NPH_Ura, NPH_Sheo, NPH_Jin, NPH_Vorin, KHM_Vorin, NEO_Jin, SNC_Ura, DMU_Sheo , ONE_Norn, C19_Krrik	NqLVdZe+ZvE-ZNw
 Creature	MBS_Trailer	-N-ZvEE-ZNw
 Creature	DMU_Ajani	ZqO-ZvEE-ZNw
 Creature	NPH_Norn, NPH_Ura, DMU_Ajani, NPH_Annex, ONE_Nissa	-ZvEE-ZNw
@@ -150,6 +155,7 @@ Great	PhrxScriptures	MxNyL-ZNxZqFMvMv
 Great	ONE_Article	MxNyL-ZGNx
 Green	ONE_Nissa	CrFVV+ZvGDdNwMxNyNqJAxNw+ZvE-ZNwNvL-ZFZvNx
 Green	ONE_Lukka	CrFVV+ZvGDdNwZvTdZvE-ZZw+ZvE-ZNwZvL-ZFZvNx
+Guide	NPH_Ura	NyF-ZOZxMvNwETd
 Hand	DMU_Ajani	TdJZyQ_d
 Hand	Promo_PsyCrawl	Zd_dTdJZyQ_d
 Hand	NPH_Batterskull	-NTdL+ZwTZwE+ZvE-ZNwTdLZy_d
@@ -171,7 +177,7 @@ Knee	ONE_Article	-N-ZvTeHZxQNw
 Land	Promo_Swamp	NeK-ZvF-ZZxNxOZqNd
 Land	NPH_Vorin, ONE_Island, ONE_Plains, ONE_Forest, ONE_Mount, ONE_Swamp, NPH_InkNexus	NxOZqNd
 Land	NPH_Vorin	ZqOAxNxOZqNd
-Legendary	NPH_Norn, NPH_Ura, NPH_Sheo, NPH_Jin, NPH_Vorin, KHM_Vorin, NEO_Jin, SNC_Ura, DMU_Sheo	NqLVdZe+ZvE-ZNw
+Legendary	NPH_Norn, NPH_Ura, NPH_Sheo, NPH_Jin, NPH_Vorin, KHM_Vorin, NEO_Jin, SNC_Ura, DMU_Sheo, ONE_Norn, C19_Krrik	NqLVdZe+ZvE-ZNw
 Legendary	NEO_Tami	NqLVdZeONwMvHZvMxFZwZxZyNwQTdL-ZZwNvL-ZFZvENx
 Legendary	NEO_Tami, DMU_Ajani, ONE_Jace, ONE_Vraska, ONE_Lukka, ONE_Nissa, ONE_Nahiri	NqLVdZeTdT-NQZvTETdZx
 Legendary	ONE_Lukka	-ZJZvLMvODdNx+ZvEE-ZNwNqLVdZeTdT-NQQZvTETdZxNwONdO
@@ -199,7 +205,7 @@ Mill	ONE_Jace	VeOZvEZw
 Mind	NPH_Trailer	ZxOCrFDdZx
 Mind	ONE_Jace	-ZZxOCrFDdZx
 Minion	C19_Krrik	-ZOZyHZy-Z
-Mother	ONE_Article	VdJ-ZZeMwJNdNq
+Mother	ONE_Article, ONE_Norn	VdJ-ZZeMwJNdNq
 Mother	ONE_Plains	MwJNdGNq
 Mountain	ONE_Mount	ZwZxLZwNw
 New	NEO_Jin	MxHZvDdLZvZxMwGNwZx
@@ -228,8 +234,10 @@ Perfect	NPH_Jin	VdTdL+ZwT+ZvGDdNwZwENxOZeNd
 Perfect	BeadleGrims, Merch, ONE_Jace_Art, ONE_Island, ONE_Jace	VdTdL+ZwT
 Perfection	NPH_Elf	V+ZvGDdNwVdTdL+ZwT
 Permanent	KHM_Vorin	OMxZy-ZLMvZxFVVNdO
-Permanent	NEO_Tami	-ZLMvZxFVV
+Permanent	NEO_Tami, ONE_Norn	-ZLMvZxFVV
 Permanent	NEO_Tami	ZqOAx-ZLMvZxFVV
+Permanent	ONE_Norn	V-ZLMvZxGVQV
+Permanent	ONE_Norn	V-ZLMvZxGVV
 Phyrexia	NPH_Norn, PhrxScriptures	+ZvGDdNwZwENxOZeNd
 Phyrexia	MBS_Trailer	MxHZvDdLZv+ZvGDdNwZwENxGZeNd
 Phyrexia	NPH_Trailer	MxHZvDdZvZx+ZvGDdNwZwENxOZeNd
@@ -245,8 +253,9 @@ Play	Yawg_Test, SNC_Ura	ZQ-ZwQNd
 Player	KHM_Vorin	OMxZyTdJZyAx
 Player	ONE_Jace, ONE_Vraska, ONE_Nahiri	TdJZyAx
 Power	ONE_Lukka	NqLMdZvTdZwHDdNwTdQ-ZNv+ZvEE-ZNw
-Praetor	NPH_Norn, NPH_Ura, NPH_Jin, NPH_Sheo, NPH_Vorin, KHM_Vorin, NEO_Jin, SNC_Ura, DMU_Sheo	ZvNwLVdZxDd
+Praetor	NPH_Norn, NPH_Ura, NPH_Jin, NPH_Sheo, NPH_Vorin, KHM_Vorin, NEO_Jin, SNC_Ura, DMU_Sheo, ONE_Norn	ZvNwLVdZxDd
 Process	NPH_Jin	ZyZvETdAxHZdDdT
+Produce	NPH_Vorin	TeE-ZwGZdGT
 Progress	NEO_Jin	-ZwGZx-ZvZx
 Proliferate	ONE_Vraska	VdEZwZx_dENwKZy
 Psychosis	Promo_PsyCrawl	VdF+ZyZeNeVF-ZN
@@ -255,7 +264,7 @@ Put	KHM_Vorin	+NxO-ZQ-Z
 Put	KHM_Vorin	NqF+NxO-ZE-Z
 Reduce	NPH_Jin, NEO_Tami	TJNeGZe
 Resistence	NPH_Ura	TDdHZdTdZyVeDdCrVF-ZZe
-Return	NPH_Batterskull	NqF-ZF+NxZxOTdQTd
+Return	NPH_Batterskull	NqF-ZF+NxZvOTdQTd
 Reveal	MBS_Trailer	ZwDdEZvGZe
 Reveal	DMU_Ajani	ZwDdEZvQZe
 Rogue	NPH_Agent	NxQZx_dMdOZxAx
@@ -280,6 +289,7 @@ Step	NPH_Vorin, NEO_Tami	ZqTdLZeCrONwNeGZvTZyZvETdGAxZvNwE
 Step	NPH_Jin	-Zv_dTdL+ZwTZyZvKTdQAx
 Step	ONE_Nahiri	-Zv_dTdL+ZxTZyZvETdAx
 Sting	ONE_Vraska	-ZLNvG-Z
+Stun	NPH_Ura	ZwEZyNwArQNeGZv
 Subscribe	BeadleGrims	Md-ZxKMvLLAr
 Surrender	BeadleGrims, Merch, ONE_Jace_Art	ZvTdMvAxL-ZQNx
 Surveilance	NPH_Agent	Ny-NEDdQ-ZwQT
@@ -305,6 +315,8 @@ Trample	NPH_Vorin, KHM_Vorin	NeVFZwNvJ-ZyZvLTd-ZZe
 Trample	ONE_Nissa	NeVFZwNvJ-ZyZvLTd-ZZeNwO
 Treasure	ONE_Vraska	-Zy_dFTeMx
 Trigger	NEO_Jin	ZdMwOCdZqZx
+Trigger	ONE_Norn	-ZwLMwGNd
+Trigger	ONE_Norn	NqF-ZwLMwGNd
 Turn	Yawg_Test, SNC_Ura, DMU_Ajani, Promo_Dismember, NPH_InkNexus, ONE_Nissa	MwZwFZqODdHTdNe
 Turn	Yawg_Test	MwZwFZqODdHTdNw
 Turn	NEO_Jin	NwEDdHTdNe-ZFF-ZO
@@ -312,6 +324,7 @@ Turn	SNC_Ura	ZqODdHTdENe
 Turn	ONE_Jace, ONE_Nahiri	+ZvJ-ZZqTdLZeCrDdHTdQNe
 Two	DMU_Ajani	+ZwQ
 Type	ONE_Vraska	ZqVFTdMx-ZvKKZwZwNeVFF-ZZxNwO
+Type	NPH_Vorin	TL-ZTdZvKZwZw
 Tyrant	NEO_Jin	ZeDdVdO-ZxDdZw
 Unforgiving	ONE_Nahiri	TeGZyNy
 Untap	NPH_Vorin, NEO_Tami	NqFONwNeGZvET
