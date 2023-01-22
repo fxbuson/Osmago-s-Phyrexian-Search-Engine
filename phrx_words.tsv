@@ -159,6 +159,7 @@ Guide	NPH_Ura	NyF-ZOZxMvNwETd
 Hand	DMU_Ajani	TdJZyQ_d
 Hand	Promo_PsyCrawl	Zd_dTdJZyQ_d
 Hand	NPH_Batterskull	-NTdL+ZwTZwE+ZvE-ZNwTdLZy_d
+Hand	NPH_Jin	TdLZy_d-ZHZvLDdNwGNy
 Haste	NPH_Ura, KHM_Vorin, ONE_Nahiri	NeVFMdFZw_dNQVZw
 Haste	SNC_Ura	NeVFMdFZw_dNQV-ZZw
 Heretic	SNC_Ura	TqZw-ZGZwZe
@@ -218,6 +219,7 @@ Nexus	NPH_InkNexus	Zd_dLZMdArNvG_d_d-ZOZyZd
 Notebook	NEO_Tami	ZxLT-ZVdHH-ZDdQZwNwZxEZwZx
 Number	ONE_Lukka	-ZJZvLMvODdNx+ZvEE-ZNwNqLVdZeTdT-NQQZvTETdZxNwONdO
 Number	ONE_Nahiri	ZyODdNyLTdVdLMvODdNxZeDdTJNeZeTd-NFDdFF-Z-NQZyZxZwETqGZx
+Number	Promo_PsyCrawl	LMvODdNx
 Offer	MBS_Trailer	-ZQZe-ZONyV
 One	ONE_Vraska	-ZFF
 Opponent	NPH_Norn, NPH_Ura, NPH_Sheo, NPH_Jin, NPH_Vorin, KHM_Vorin, NEO_Jin, SNC_Ura, DMU_Sheo, DMU_Ajani	ONwTdJZyAx
@@ -253,6 +255,7 @@ Play	Yawg_Test, SNC_Ura	ZQ-ZwQNd
 Player	KHM_Vorin	OMxZyTdJZyAx
 Player	ONE_Jace, ONE_Vraska, ONE_Nahiri	TdJZyAx
 Power	ONE_Lukka	NqLMdZvTdZwHDdNwTdQ-ZNv+ZvEE-ZNw
+Power	Promo_PsyCrawl	TdQ-ZNvZwHZyMxZy_dE-ZGZx
 Praetor	NPH_Norn, NPH_Ura, NPH_Jin, NPH_Sheo, NPH_Vorin, KHM_Vorin, NEO_Jin, SNC_Ura, DMU_Sheo, ONE_Norn	ZvNwLVdZxDd
 Process	NPH_Jin	ZyZvETdAxHZdDdT
 Produce	NPH_Vorin	TeE-ZwGZdGT
