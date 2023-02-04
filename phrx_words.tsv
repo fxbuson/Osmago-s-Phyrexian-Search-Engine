@@ -6,13 +6,14 @@ Activate	ONE_Lukka	+ZvEE-ZNwAxZxOAxZv_dFNeTdNeVF-ZGZxNdO
 Activate	ONE_Lukka	AxZxOAxZv_dFNeQTd
 Add	NPH_Vorin, ONE_Vraska, ONE_Lukka	ZLZQZe
 Agent	NPH_Agent	ZeLTdVDd
+Alt	Keyboard	TdJ+NxT
 Animist	ONE_Nissa	TdL+ZwTTdMvL-ZZy
 Annex	NPH_Annex	-Zw_dOZxZwGZw
 Apocalypse	DMU_Sheo	TdF-ZxLTZe
 Arena	ONE_PhrxArena	ZyLZ-ZNxONwZx
 Artifact	NEO_Tami	NqLVdZeONwMvHZvMxFZwZxZyNwQTdL-ZZwNvL-ZFZvENx
 Artifact	NEO_Jin, NEO_Tami, NPH_Batterskull, NPH_Annex, ONE_Vraska, ONE_Nissa	ZyNwQTdL-ZZw
-Artifact	Promo_PsyCrawl	ZyNwQTdL-ZZw+ZvE-ZNw
+Artifact	MBS_PsyCrawl	ZyNwQTdL-ZZw+ZvE-ZNw
 Ascend	ONE_Nissa	ZvTdTETdNx
 Attack	NPH_Annex	ZeNqGAxZxNw
 Attack	ONE_Nahiri	NqFZeNqFAxZxENw
@@ -33,14 +34,15 @@ Blight	NPH_Agent	CrMdOZxNeNd
 Bottom	DMU_Ajani	-ZwEArG_dZyFZxMvHZdDdT
 Bring	NPH_Norn	ZvOTdLTd
 Burn	NPH_Trailer	OMxZYawg_TestTqGDdGNw
+CapsLock	Keyboard	-ZvLAr-Zx
 Card	NPH_Sheo	+ZvE-ZNwZqVFTdMx
 Card	SNC_Ura, DMU_Ajani	-ZFFZxAxZqVFTdGMx
 Card	SNC_Ura, DMU_Ajani, ONE_Nahiri	ZqOZqVFTdMx
 Card	SNC_Ura	ZqTdLZeCrZqVFTdGMx
 Card	NPH_Jin, ONE_Jace	ZqVFFTdMx
-Card	NEO_Tami, DMU_Sheo, Promo_PsyCrawl, ONE_PhrxArena, ONE_Jace, ONE_Vraska, ONE_Nahiri	ZqVFTdMx
+Card	NEO_Tami, DMU_Sheo, MBS_PsyCrawl, ONE_PhrxArena, ONE_Jace, ONE_Vraska, ONE_Nahiri	ZqVFTdMx
 Card	Yawg_Test	ZqVGGTdQMx
-Card	Promo_PsyCrawl	VZqVFFTdMx
+Card	MBS_PsyCrawl	VZqVFFTdMx
 Card	ONE_Vraska	ZqVFTdMx-ZvKKZwZwNeVFF-ZZxNwO
 Cast	NEO_Jin	ZQZwENd
 Cast	NEO_Tami	ZQZwNdDdNyLTdVd
@@ -68,18 +70,18 @@ Cost	ONE_Nahiri	ZyODdNyLTdVdLMvODdNxZeDdTJNeZeTd-NFDdFF-Z-NQZyZxZwETqGZx
 Counter	NEO_Jin	MxQZyKTd
 Counter	KHM_Vorin, DMU_Ajani	VdQQNyVe+Zw
 Counter	C19_Krrik	VdQNVe+Zw
-Crawler	Promo_PsyCrawl	ZVEZdTd
+Crawler	MBS_PsyCrawl	ZVEZdTd
 Create	NPH_Jin	TdL+ZwGT
 Create	NEO_Tami	TdL+ZwKT
 Create	DMU_Ajani, ONE_Nissa, ONE_Lukka, ONE_Nahiri	TdL-ZwQT
-Creature	NPH_Ura, NEO_Tami, DMU_Ajani, Promo_Dismember, NPH_Elf, NPH_Agent, NPH_InkNexus, ONE_Jace, ONE_Vraska, ONE_Nahiri	+ZvE-ZNw
+Creature	NPH_Ura, NEO_Tami, DMU_Ajani, NPH_Dismember, NPH_Elf, NPH_Agent, NPH_InkNexus, ONE_Jace, ONE_Vraska, ONE_Nahiri	+ZvE-ZNw
 Creature	NPH_Sheo	+ZvE-ZNwZqVFTdMx
 Creature	DMU_Ajani	NqF+ZvE-ZNw
 Creature	NPH_Norn, NPH_Ura, NPH_Sheo, NPH_Jin, NPH_Vorin, KHM_Vorin, NEO_Jin, SNC_Ura, DMU_Sheo , ONE_Norn, C19_Krrik	NqLVdZe+ZvE-ZNw
 Creature	MBS_Trailer	-N-ZvEE-ZNw
 Creature	DMU_Ajani	ZqO-ZvEE-ZNw
 Creature	NPH_Norn, NPH_Ura, DMU_Ajani, NPH_Annex, ONE_Nissa	-ZvEE-ZNw
-Creature	Promo_PsyCrawl, NPH_InkNexus	ZyNwQTdL-ZZw+ZvE-ZNw
+Creature	MBS_PsyCrawl, NPH_InkNexus	ZyNwQTdL-ZZw+ZvE-ZNw
 Creature	NPH_Batterskull	ZyFZv_dZx+ZvE-ZNw
 Creature	NPH_Annex	NwE-ZMxZxLNyOV+ZvE-ZNw-ZO
 Creature	ONE_Nissa	CrFVV+ZvGDdNwMxNyNqJAxNw+ZvE-ZNwNvL-ZFZvNx
@@ -93,12 +95,12 @@ Death	MBS_Trailer	NxQZyNw
 Deathtouch	DMU_Sheo	NeVFNxQZyNw-ZOZwMx
 Destroy	NPH_Trailer	TdL+ZwTONw+Zv_dZqFZyHMx
 Discard	ONE_Nahiri	MxZxE-ZyQNq
-Dismember	Promo_Dismember	AxONwZwENvL-ZZyMvETDd
+Dismember	NPH_Dismember	AxONwZwENvL-ZZyMvETDd
 Distribute	DMU_Ajani	NyCdZwENQZw
 Draw	NPH_Jin	TZvDdJMvQV
 Draw	SNC_Ura	TZvDdLMvEV
-Draw	NEO_Tami, DMU_Sheo, Promo_PsyCrawl, ONE_PhrxArena, ONE_Jace, ONE_Vraska, ONE_Nahiri	TZvDdLMvQV
-Each	Promo_PsyCrawl	LNyOV-ZONwTdJZyAx
+Draw	NEO_Tami, DMU_Sheo, MBS_PsyCrawl, ONE_PhrxArena, ONE_Jace, ONE_Vraska, ONE_Nahiri	TZvDdLMvQV
+Each	MBS_PsyCrawl	LNyOV-ZONwTdJZyAx
 Each	C19_Krrik	LNyOV-Z
 Each	NPH_Annex	NwE-ZMxZxLNyOV+ZvE-ZNw-ZO
 Each	ONE_Nissa	LNyOV-ZHZqNxOMvNd
@@ -110,6 +112,7 @@ Emblem	DMU_Ajani	AxZwL_dLZwT
 Embrace	ONE_Article	Zq+NxDdJMvLZd
 Embrace	BeadleGrims	Zq+NxDdJMvZd
 Enchantment	ONE_PhrxArena	TGNxMw
+Enter	Keyboard	NxHTZw
 Equip	NPH_Batterskull	ZyFZv_dZx+ZvE-ZNw
 Equip	NPH_Batterskull	ZyFZv_dZx
 Equipment	NPH_Batterskull	ZyFZvTZx
@@ -137,7 +140,7 @@ Forest	ONE_Forest	-ZHZqNxOMvNd
 Forest	ONE_Nissa	LNyOV-ZHZqNxOMvNd
 Get	NPH_Norn, NPH_Ura, NPH_InkNexus, ONE_Nahiri	NqFZxLZvEZy
 Get	DMU_Ajani, ONE_Vraska, ONE_Lukka	ZxLZvEZy
-Get	DMU_Ajani, Promo_Dismember, ONE_Jace, ONE_Nissa	ZxLZvGZy
+Get	DMU_Ajani, NPH_Dismember, ONE_Jace, ONE_Nissa	ZxLZvGZy
 Get	NPH_Batterskull	NqFZxLZvGZy
 Glisten	NPH_Elf	TdL+ZwT+Zv-ZZwFZxN
 Glory	NPH_Elf	-ZJVdZ-Zx
@@ -155,16 +158,15 @@ Great	PhrxScriptures	MxNyL-ZNxZqFMvMv
 Great	ONE_Article	MxNyL-ZGNx
 Green	ONE_Nissa	CrFVV+ZvGDdNwMxNyNqJAxNw+ZvE-ZNwNvL-ZFZvNx
 Green	ONE_Lukka	CrFVV+ZvGDdNwZvTdZvE-ZZw+ZvE-ZNwZvL-ZFZvNx
-Guide	NPH_Ura	NyF-ZOZxMvNwETd
 Hand	DMU_Ajani	TdJZyQ_d
-Hand	Promo_PsyCrawl	Zd_dTdJZyQ_d
+Hand	MBS_PsyCrawl	Zd_dTdJZyQ_d
 Hand	NPH_Batterskull	-NTdL+ZwTZwE+ZvE-ZNwTdLZy_d
 Hand	NPH_Jin	TdLZy_d-ZHZvLDdNwGNy
 Haste	NPH_Ura, KHM_Vorin, ONE_Nahiri	NeVFMdFZw_dNQVZw
 Haste	SNC_Ura	NeVFMdFZw_dNQV-ZZw
 Heretic	SNC_Ura	TqZw-ZGZwZe
 Hidden	NPH_Ura	ONw-ZxE+ZwFZDdMv
-Horror	Promo_PsyCrawl, C19_Krrik	MxNyNqJAxNw
+Horror	MBS_PsyCrawl, C19_Krrik	MxNyNqJAxNw
 Horror	ONE_Nissa	CrFVV+ZvGDdNwMxNyNqJAxNw+ZvE-ZNwNvL-ZFZvNx
 Human	NPH_Agent	-ZKTdO+Zw
 Hunger	NPH_Vorin	ZeLZeZe
@@ -219,11 +221,12 @@ Nexus	NPH_InkNexus	Zd_dLZMdArNvG_d_d-ZOZyZd
 Notebook	NEO_Tami	ZxLT-ZVdHH-ZDdQZwNwZxEZwZx
 Number	ONE_Lukka	-ZJZvLMvODdNx+ZvEE-ZNwNqLVdZeTdT-NQQZvTETdZxNwONdO
 Number	ONE_Nahiri	ZyODdNyLTdVdLMvODdNxZeDdTJNeZeTd-NFDdFF-Z-NQZyZxZwETqGZx
-Number	Promo_PsyCrawl	LMvODdNx
+Number	MBS_PsyCrawl	LMvODdNx
+Obliterate	Keyboard	ZwMx+ZwF-ZvNy
 Offer	MBS_Trailer	-ZQZe-ZONyV
 One	ONE_Vraska	-ZFF
 Opponent	NPH_Norn, NPH_Ura, NPH_Sheo, NPH_Jin, NPH_Vorin, KHM_Vorin, NEO_Jin, SNC_Ura, DMU_Sheo, DMU_Ajani	ONwTdJZyAx
-Opponent	Promo_PsyCrawl	LNyOV-ZONwTdJZyAx
+Opponent	MBS_PsyCrawl	LNyOV-ZONwTdJZyAx
 Other	NPH_Norn, ONE_Vraska	MvL_d_d
 Other	NPH_Norn	MvL_d_dZwENxOOZeNd
 Owner	NPH_Batterskull	-NTdL+ZwTZwE+ZvE-ZNwTdLZy_d
@@ -234,7 +237,7 @@ Perfect	MBS_Trailer	VdTdE+ZwHT
 Perfect	PhrxScriptures	VdTdL+ZwET
 Perfect	NPH_Jin	VdTdL+ZwT+ZvGDdNwZwENxOZeNd
 Perfect	BeadleGrims, Merch, ONE_Jace_Art, ONE_Island, ONE_Jace	VdTdL+ZwT
-Perfection	NPH_Elf	V+ZvGDdNwVdTdL+ZwT
+Perfect	NPH_Elf	V+ZvGDdNwVdTdL+ZwT
 Permanent	KHM_Vorin	OMxZy-ZLMvZxFVVNdO
 Permanent	NEO_Tami, ONE_Norn	-ZLMvZxFVV
 Permanent	NEO_Tami	ZqOAx-ZLMvZxFVV
@@ -255,13 +258,13 @@ Play	Yawg_Test, SNC_Ura	ZQ-ZwQNd
 Player	KHM_Vorin	OMxZyTdJZyAx
 Player	ONE_Jace, ONE_Vraska, ONE_Nahiri	TdJZyAx
 Power	ONE_Lukka	NqLMdZvTdZwHDdNwTdQ-ZNv+ZvEE-ZNw
-Power	Promo_PsyCrawl	TdQ-ZNvZwHZyMxZy_dE-ZGZx
+Power	MBS_PsyCrawl	TdQ-ZNvZwHZyMxZy_dE-ZGZx
 Praetor	NPH_Norn, NPH_Ura, NPH_Jin, NPH_Sheo, NPH_Vorin, KHM_Vorin, NEO_Jin, SNC_Ura, DMU_Sheo, ONE_Norn	ZvNwLVdZxDd
 Process	NPH_Jin	ZyZvETdAxHZdDdT
 Produce	NPH_Vorin	TeE-ZwGZdGT
 Progress	NEO_Jin	-ZwGZx-ZvZx
 Proliferate	ONE_Vraska	VdEZwZx_dENwKZy
-Psychosis	Promo_PsyCrawl	VdF+ZyZeNeVF-ZN
+Psychosis	MBS_PsyCrawl	VdF+ZyZeNeVF-ZN
 Put	KHM_Vorin	+NxO-ZE-Z
 Put	KHM_Vorin	+NxO-ZQ-Z
 Put	KHM_Vorin	NqF+NxO-ZE-Z
@@ -298,10 +301,11 @@ Surrender	BeadleGrims, Merch, ONE_Jace_Art	ZvTdMvAxL-ZQNx
 Surveilance	NPH_Agent	Ny-NEDdQ-ZwQT
 Swamp	Promo_Swamp, ONE_Swamp	ZyLMxZwT
 Swampwalk	NPH_Sheo	NeVFZyLMxZwTVdTETdZx
+Tab	Keyboard	CrK-NZx
 Tap	NEO_Tami	NeGZvT
 Tap	NPH_Vorin	NqFTL-ZTdNeGZvET
 Tap	NPH_Vorin	TL-ZTdNeG-ZvQT
-Target	NPH_Sheo, NEO_Tami, DMU_Ajani, Promo_Dismember, ONE_Jace, ONE_Vraska, ONE_Lukka, ONE_Nahiri	MwGNwQZx
+Target	NPH_Sheo, NEO_Tami, DMU_Ajani, NPH_Dismember, ONE_Jace, ONE_Vraska, ONE_Lukka, ONE_Nahiri	MwGNwQZx
 Target	NEO_Jin	MxHZvDdLZvZxMwGNwZx
 Testament	Yawg_Test	NvEZdNyMvZxMvZyG_dT
 Three	DMU_Ajani	+ZwF
@@ -320,7 +324,7 @@ Treasure	ONE_Vraska	-Zy_dFTeMx
 Trigger	NEO_Jin	ZdMwOCdZqZx
 Trigger	ONE_Norn	-ZwLMwGNd
 Trigger	ONE_Norn	NqF-ZwLMwGNd
-Turn	Yawg_Test, SNC_Ura, DMU_Ajani, Promo_Dismember, NPH_InkNexus, ONE_Nissa	MwZwFZqODdHTdNe
+Turn	Yawg_Test, SNC_Ura, DMU_Ajani, NPH_Dismember, NPH_InkNexus, ONE_Nissa	MwZwFZqODdHTdNe
 Turn	Yawg_Test	MwZwFZqODdHTdNw
 Turn	NEO_Jin	NwEDdHTdNe-ZFF-ZO
 Turn	SNC_Ura	ZqODdHTdENe
