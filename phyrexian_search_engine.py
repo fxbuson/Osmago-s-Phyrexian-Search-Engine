@@ -35,7 +35,7 @@ all_symbols = rising+falling+arrows+middle_s+vow+weird+punctuation
 
 fonts = {
         "Phyrexian Compleat":['PhyrexianCompleat.ttf', 'Phyrexian Compleat', 'phyrexian_compleat.tsv', 1],
-        "Progress Engine":['ProgressEngine.otf', 'ProgressEngine', 'progress_engine.tsv', 1],
+        "Basilica":['Basilica.otf', 'Basilica', 'basilica.tsv', 1],
         "Phyrexian Engraved":['Phyrexian_Engraved.otf', "Phyrexian Engraved", "phyrexian_engraved.tsv", 4],
         "Horizontal Gibberish":['Phi_horizontal_gbrsh_9.8.ttf', 'Phi_horizontal_gbrsh_9.8', 'horizontal_gibberish.tsv', 1],
         "Phyrexian Regular":['Phyrexian-Regular.ttf', 'Phyrexian Regular', 'phyrexian_regular.tsv', 1]
@@ -159,7 +159,7 @@ file.close()
 fonts_all = ["Horizontal Gibberish",
              "Phyrexian Compleat",
              "Phyrexian Engraved",
-             "Progress Engine",
+             "Basilica",
              "Phyrexian Regular"]
 for font in fonts_all:
     pyglet.font.add_file(fonts[font][0])
@@ -167,7 +167,7 @@ for font in fonts_all:
 font_size = 25
 
 
-font_choice = fonts_all[1]
+font_choice = fonts_all[4]
 font_phyr = (fonts[font_choice][1], font_size)
 
 # GET THE TRANSLITERATION TO FONT CONVERSION

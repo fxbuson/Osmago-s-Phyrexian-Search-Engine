@@ -49,6 +49,8 @@ Cast	NEO_Tami	ZQZwNdDdNyLTdVd
 Cast	NEO_Jin, DMU_Ajani, C19_Krrik	ZQ-ZwQNd
 Cenobite	NPH_Norn	MxNyL-ZNxArKTdHZZx
 Choose	NEO_Jin	NqMxNxL-ZwQTq
+Cleanse	Merch, ONE_Trailer, ONE_Solphim	-ZL_dFNxLZx
+Cleanse	Merch	-ZL_dFNxZx
 Color	ONE_Vraska	ZJZvMvHZvMxFZwZx
 Color	NEO_Tami	NqLVdZeONwMvHZvMxFZwZxZyNwQTdL-ZZwNvL-ZFZvENx
 Combat	ONE_Nahiri	NwEZx-ZELNyOV-ZZxVK-ZwNw-ZO
@@ -206,7 +208,7 @@ Mana	ONE_Lukka	ZqOTL-ZTd
 Mill	ONE_Jace	VeOZvEZw
 Mill	ONE_Jace	VeOZvEZw
 Mind	NPH_Trailer	ZxOCrFDdZx
-Mind	ONE_Jace	-ZZxOCrFDdZx
+Mind	ONE_Jace, NPH_Misstep	-ZZxOCrFDdZx
 Minion	C19_Krrik	-ZOZyHZy-Z
 Mother	ONE_Article, ONE_Norn	VdJ-ZZeMwJNdNq
 Mother	ONE_Plains	MwJNdGNq
@@ -242,7 +244,7 @@ Permanent	KHM_Vorin	OMxZy-ZLMvZxFVVNdO
 Permanent	NEO_Tami, ONE_Norn	-ZLMvZxFVV
 Permanent	NEO_Tami	ZqOAx-ZLMvZxFVV
 Permanent	ONE_Norn	V-ZLMvZxGVQV
-Permanent	ONE_Norn	V-ZLMvZxGVV
+Permanent	ONE_Norn	V-ZLMvZxFVV
 Phyrexia	NPH_Norn, PhrxScriptures	+ZvGDdNwZwENxOZeNd
 Phyrexia	MBS_Trailer	MxHZvDdLZv+ZvGDdNwZwENxGZeNd
 Phyrexia	NPH_Trailer	MxHZvDdZvZx+ZvGDdNwZwENxOZeNd
@@ -265,6 +267,7 @@ Produce	NPH_Vorin	TeE-ZwGZdGT
 Progress	NEO_Jin	-ZwGZx-ZvZx
 Proliferate	ONE_Vraska	VdEZwZx_dENwKZy
 Psychosis	MBS_PsyCrawl	VdF+ZyZeNeVF-ZN
+Pure	Merch, ONE_Trailer, ONE_Solphim	ONwZxQTdEET
 Put	KHM_Vorin	+NxO-ZE-Z
 Put	KHM_Vorin	+NxO-ZQ-Z
 Put	KHM_Vorin	NqF+NxO-ZE-Z
@@ -350,3 +353,10 @@ Work	MBS_Trailer	MxNyL-ZNxTdL+ZwT
 World	NPH_Norn	MvL_d_dZwENxOOZeNd
 World	MBS_Trailer	ZqOZwENxOZeNd
 World	ONE_Live	ZqOZwENxOZqNd
+Block	ONE_Panel	ZwNvJ-Z-ZyL-Z
+Combat	ONE_Panel	ZxVK-ZwHNw
+Turn	ONE_Panel	DdHTdHNe
+Turn	ONE_Panel	DdHTdQNe
+Mind	ONE_Panel	ZxOCrFDdLZx
+Sol	ONE_Panel	+ZvLDdNxZwGMwQTd
+Ring	ONE_Panel	+ZvLDdNxZwGMwQTd
